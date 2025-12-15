@@ -62,23 +62,39 @@ export default function LoginPage() {
       {/* Login Card */}
       <div className="glass-card p-8 w-full max-w-md mx-4 animate-scale-in relative">
         {/* Logo Section */}
-        <div className="text-center mb-8">
-          <Image
-            src={logo}
-            alt="Kineuro"
-            priority
-            placeholder="blur"
-            style={{ 
-              objectFit: 'contain', 
-              margin: '0 auto',
-              width: 'auto',
-              height: '50px'
+        <div className="text-center mb-8 flex justify-center">
+          <div 
+            className="relative p-4 rounded-2xl glass-card border border-white/10"
+            style={{
+              background: 'rgba(255, 255, 255, 0.03)',
+              boxShadow: '0 0 40px -10px rgba(var(--color-accent-rgb), 0.3)',
+              backdropFilter: 'blur(10px)'
             }}
-          />
-          <p style={{ color: 'var(--color-text-secondary)', marginTop: '0.5rem' }}>
-            Sistema de Gestión de Cuotas
-          </p>
+          >
+            <div 
+              className="absolute inset-0 rounded-2xl opacity-50"
+              style={{
+                background: 'radial-gradient(circle at center, rgba(var(--color-accent-rgb), 0.15) 0%, transparent 70%)',
+              }}
+            />
+            <Image
+              src={logo}
+              alt="Kineuro"
+              priority
+              placeholder="blur"
+              style={{ 
+                objectFit: 'contain', 
+                width: 'auto',
+                height: '45px',
+                position: 'relative',
+                zIndex: 1
+              }}
+            />
+          </div>
         </div>
+        <p style={{ textAlign: 'center', color: 'var(--color-text-secondary)', marginBottom: '2rem' }}>
+          Sistema de Gestión de Cuotas
+        </p>
 
         {/* Form */}
         <form onSubmit={handleSubmit} className="space-y-5">

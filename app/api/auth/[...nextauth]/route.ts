@@ -16,30 +16,37 @@ export const authOptions: NextAuthOptions = {
           return null
         }
 
-        const user = await prisma.user.findUnique({
-          where: { username: credentials.username }
-        })
+        try {
+          const user = await prisma.user.findUnique({
+            where: { username: credentials.username }
+          })
 
-        console.log('Login attempt:', credentials.username, user ? 'User found' : 'User NOT found')
+          console.log('[AUTH] Login attempt:', credentials.username, user ? 'User found' : 'User NOT found', user?.id)
 
-        if (!user) {
+          if (!user) {
+            console.log('[AUTH] User not found returning null')
+            return null
+          }
+
+          const isPasswordValid = await bcrypt.compare(
+            credentials.password,
+            user.password
+          )
+
+          console.log('[AUTH] Password valid:', isPasswordValid)
+
+          if (!isPasswordValid) {
+            console.log('[AUTH] Invalid password returning null')
+            return null
+          }
+
+          return {
+            id: user.id,
+            name: user.username,
+          }
+        } catch (error) {
+          console.error('[AUTH ERROR]', error)
           return null
-        }
-
-        const isPasswordValid = await bcrypt.compare(
-          credentials.password,
-          user.password
-        )
-
-        console.log('Password valid:', isPasswordValid)
-
-        if (!isPasswordValid) {
-          return null
-        }
-
-        return {
-          id: user.id,
-          name: user.username,
         }
       }
     })
