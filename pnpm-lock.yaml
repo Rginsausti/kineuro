@@ -26,6 +26,9 @@ importers:
       fuse.js:
         specifier: ^7.1.0
         version: 7.1.0
+      libsql:
+        specifier: ^0.5.22
+        version: 0.5.22
       lucide-react:
         specifier: ^0.555.0
         version: 0.555.0(react@19.2.0)
