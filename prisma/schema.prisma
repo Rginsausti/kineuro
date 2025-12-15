@@ -2,13 +2,12 @@
 // learn more about it in the docs: https://pris.ly/d/prisma-schema
 
 generator client {
-  provider        = "prisma-client-js"
-  previewFeatures = ["driverAdapters"]
+  provider = "prisma-client-js"
 }
 
 datasource db {
-  provider = "sqlite"
-  url      = "file:./dev.db"
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
 }
 
 model User {
@@ -22,7 +21,7 @@ model User {
 model Client {
   id             String    @id @default(cuid())
   name           String
-  documentNumber String?   // Optional as user mentioned they might not have it yet
+  documentNumber String?
   phone          String?
   notes          String?
   isActive       Boolean   @default(true)
