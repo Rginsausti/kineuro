@@ -5,6 +5,7 @@ import { useState } from "react"
 import { useRouter } from "next/navigation"
 import { Lock, User } from "lucide-react"
 import Image from "next/image"
+import logo from '../../public/logo.png'
 
 export default function LoginPage() {
   const [username, setUsername] = useState("")
@@ -63,13 +64,16 @@ export default function LoginPage() {
         {/* Logo Section */}
         <div className="text-center mb-8">
           <Image
-            src="/logo.png"
+            src={logo}
             alt="Kineuro"
-            width={180}
-            height={50}
-            style={{ objectFit: 'contain', margin: '0 auto' }}
-            unoptimized
             priority
+            placeholder="blur"
+            style={{ 
+              objectFit: 'contain', 
+              margin: '0 auto',
+              width: 'auto',
+              height: '50px'
+            }}
           />
           <p style={{ color: 'var(--color-text-secondary)', marginTop: '0.5rem' }}>
             Sistema de Gestión de Cuotas

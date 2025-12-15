@@ -1,6 +1,7 @@
 "use client"
 
 import Link from "next/link"
+import logo from '../public/logo.png'
 import Image from "next/image"
 import { usePathname } from "next/navigation"
 import { Home, Users, Upload, LogOut } from "lucide-react"
@@ -35,12 +36,9 @@ export default function Sidebar() {
           }}
         >
           <Image
-            src="/logo.png"
+            src={logo}
             alt="Kineuro"
-            width={180}
-            height={45}
             style={{ objectFit: 'contain', width: '100%', height: 'auto' }}
-            unoptimized
             priority
           />
         </div>

@@ -40,12 +40,9 @@ export default function Navbar() {
             }}
           >
             <Image
-              src="/logo.png"
+              src={logo}
               alt="Kineuro"
-              width={90}
-              height={26}
-              style={{ objectFit: 'contain' }}
-              unoptimized
+              style={{ objectFit: 'contain', width: 'auto', height: '26px' }}
               priority
             />
           </div>

@@ -20,6 +20,8 @@ export const authOptions: NextAuthOptions = {
           where: { username: credentials.username }
         })
 
+        console.log('Login attempt:', credentials.username, user ? 'User found' : 'User NOT found')
+
         if (!user) {
           return null
         }
@@ -28,6 +30,8 @@ export const authOptions: NextAuthOptions = {
           credentials.password,
           user.password
         )
+
+        console.log('Password valid:', isPasswordValid)
 
         if (!isPasswordValid) {
           return null
