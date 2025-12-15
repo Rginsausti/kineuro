@@ -183,7 +183,7 @@ export default function LoginPage() {
 
         {/* Footer */}
         <p style={{ textAlign: 'center', color: 'var(--color-text-tertiary)', fontSize: '0.75rem', marginTop: '1.5rem' }}>
-          © 2024 Kineuro. Sistema de Gestión de Cuotas.
+          © 2025 Kineuro. Sistema de Gestión de Cuotas.
         </p>
       </div>
     </div>
