@@ -1,0 +1,20 @@
+import { prisma } from "@/lib/prisma"
+import ClientsManagement from "@/components/ClientsManagement"
+import { getServerSession } from "next-auth"
+import { authOptions } from "../../api/auth/[...nextauth]/route"
+import { redirect } from "next/navigation"
+
+export const dynamic = "force-dynamic"
+
+export default async function ClientsPage() {
+  const session = await getServerSession(authOptions)
+  if (!session) {
+    redirect("/login")
+  }
+
+  const clients = await prisma.client.findMany({
+    orderBy: { name: "asc" },
+  })
+
+  return <ClientsManagement clients={clients} />
+}

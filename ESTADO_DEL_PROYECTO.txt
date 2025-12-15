@@ -1,0 +1,44 @@
+# Kineuro Gym - Estado del Proyecto
+
+## Funcionalidades Implementadas
+
+1.  **Autenticación y Seguridad**
+    *   Login de administradores con usuario y contraseña.
+    *   Sesiones persistentes (cookies httpOnly) para mantener el login.
+    *   Protección de rutas (middleware) para evitar accesos no autorizados.
+    *   **Tecnologías**: NextAuth.js (Credentials Provider, JWT Strategy), BCrypt (hashing de contraseñas).
+
+2.  **Gestión de Clientes (CRUD)**
+    *   Listado de clientes con indicadores visuales de estado.
+    *   Agregar nuevos clientes.
+    *   Editar datos de clientes existentes.
+    *   Eliminar clientes.
+    *   **Tecnologías**: Next.js App Router, React Hooks, Prisma ORM.
+
+3.  **Panel de Control (Dashboard)**
+    *   Vista rápida del estado de los clientes (Al día / Vencido).
+    *   Cálculo automático de vencimientos basado en la regla del "primer día de pago".
+    *   **Tecnologías**: TailwindCSS (Diseño Responsive), Lógica personalizada en TypeScript.
+
+4.  **Búsqueda Inteligente**
+    *   Búsqueda instantánea de clientes por nombre o DNI.
+    *   Búsqueda difusa (encuentra resultados aunque haya errores tipográficos leves).
+    *   **Tecnologías**: Fuse.js.
+
+5.  **Importación de Datos**
+    *   Módulo para subir archivos Excel.
+    *   Parsing inteligente de estructura "Meses en Columnas".
+    *   Creación automática de clientes y registro histórico de pagos.
+    *   **Tecnologías**: SheetJS (xlsx).
+
+6.  **Base de Datos**
+    *   Almacenamiento local y ligero.
+    *   Modelado de datos relacional (Usuarios, Clientes, Pagos).
+    *   **Tecnologías**: SQLite, Prisma ORM.
+
+## Stack Tecnológico General
+*   **Frontend**: Next.js 14 (React), TailwindCSS, Lucide React (Iconos).
+*   **Backend**: Next.js API Routes.
+*   **Base de Datos**: SQLite.
+*   **ORM**: Prisma.
+*   **Lenguaje**: TypeScript.
