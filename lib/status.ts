@@ -2,6 +2,7 @@ import { Client, Payment } from "@prisma/client"
 
 export type ClientWithPayments = Client & {
   payments: Payment[]
+  customDueDay?: number | null
 }
 
 export function getClientStatus(client: ClientWithPayments) {
@@ -9,12 +10,31 @@ export function getClientStatus(client: ClientWithPayments) {
     return { status: "New", dueDate: null, daysOverdue: 0 }
   }
 
-  // Sort payments by date ascending to find the first one
-  const sortedPayments = [...client.payments].sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime())
-  const firstPayment = sortedPayments[0]
-  const lastPayment = sortedPayments[sortedPayments.length - 1]
+  // If client has a specific due day, use it. Otherwise derive from first payment.
+  let dueDay = client.customDueDay
+  
+  if (!dueDay) {
+    const sortedPayments = [...client.payments].sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime())
+    // If no custom day and no payments, no status
+    if (sortedPayments.length === 0) {
+      return { status: "New", dueDate: null, daysOverdue: 0 }
+    }
+    dueDay = new Date(sortedPayments[0].date).getDate()
+  }
 
-  const dueDay = new Date(firstPayment.date).getDate()
+  // Get last payment to determine coverage
+  // If never paid, but has custom day -> It's "New" until they pay? 
+  // User says: "vencimiento sea a partir de la primera vez que pagaron" but now wants to set it manually.
+  // If manual day set but NO payments -> Status is likely "New" or we can't calc expiry effectively without a reference month.
+  // Let's assume we still need at least one payment to establish the "current period".
+  
+  if (!client.payments || client.payments.length === 0) {
+     return { status: "New", dueDate: null, daysOverdue: 0 }
+  }
+
+  const sortedPayments = [...client.payments].sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime())
+  const lastPayment = sortedPayments[sortedPayments.length - 1]
+  
   const today = new Date()
   
   // Calculate the due date for the current month

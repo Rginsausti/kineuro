@@ -15,7 +15,7 @@ export async function PUT(
 
   try {
     const body = await req.json()
-    const { name, documentNumber, phone, notes, isActive } = body
+    const { name, documentNumber, phone, notes, isActive, customDueDay } = body
 
     const client = await prisma.client.update({
       where: { id: params.id },
@@ -25,6 +25,7 @@ export async function PUT(
         phone,
         notes,
         isActive,
+        customDueDay,
       },
     })
 

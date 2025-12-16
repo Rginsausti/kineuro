@@ -1,0 +1,5016 @@
+{
+  "users": [
+    {
+      "id": "cmiozr29v0000dvo1un2uw54g",
+      "username": "admin",
+      "password": "$2b$10$SYxzDic.xw9yCfBIrLH.Y.nUDO0A4FQtrRYNQt6ebr..7uv76cMRi",
+      "createdAt": "2025-12-02T19:48:49.601Z",
+      "updatedAt": "2025-12-02T19:48:49.601Z"
+    }
+  ],
+  "clients": [
+    {
+      "id": "cmip2dj5i0000c1fuws3ixcas",
+      "name": "ANA MARIA ESPASA",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:17.142Z",
+      "updatedAt": "2025-12-02T21:02:17.142Z"
+    },
+    {
+      "id": "cmip2dj7i000bc1fupbaiudxh",
+      "name": "Ana Sanchez",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:17.215Z",
+      "updatedAt": "2025-12-02T21:02:17.215Z"
+    },
+    {
+      "id": "cmip2dj8d000gc1fumm8ardh1",
+      "name": "Agustina Berghella",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:17.245Z",
+      "updatedAt": "2025-12-02T21:02:17.245Z"
+    },
+    {
+      "id": "cmip2dj8w000jc1fundrcajsj",
+      "name": "Alba Garcia",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:17.264Z",
+      "updatedAt": "2025-12-02T21:02:17.264Z"
+    },
+    {
+      "id": "cmip2dj9f000mc1fuvwujv5xe",
+      "name": "Alejandra Aguilar",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:17.284Z",
+      "updatedAt": "2025-12-02T21:02:17.284Z"
+    },
+    {
+      "id": "cmip2dj9y000pc1fu0bjobotl",
+      "name": "Alejandra Matos",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:17.303Z",
+      "updatedAt": "2025-12-02T21:02:17.303Z"
+    },
+    {
+      "id": "cmip2djb1000wc1fu72g1iy4a",
+      "name": "Alejandro Acosta",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:17.341Z",
+      "updatedAt": "2025-12-02T21:02:17.341Z"
+    },
+    {
+      "id": "cmip2djbk000zc1furumlgjp9",
+      "name": "Alejandro Mengarelli",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:17.360Z",
+      "updatedAt": "2025-12-02T21:02:17.360Z"
+    },
+    {
+      "id": "cmip2djdd001cc1fusfh7b89z",
+      "name": "ALICIA HERNANDEZ ",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:17.426Z",
+      "updatedAt": "2025-12-02T21:02:17.426Z"
+    },
+    {
+      "id": "cmip2djdw001fc1fux0i10zmf",
+      "name": "ANGIE STRAPA",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:17.444Z",
+      "updatedAt": "2025-12-02T21:02:17.444Z"
+    },
+    {
+      "id": "cmip2djeg001ic1fu9k1vtp5s",
+      "name": "Ana Maria Allieve ",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:17.465Z",
+      "updatedAt": "2025-12-02T21:02:17.465Z"
+    },
+    {
+      "id": "cmip2djg0001tc1fug2zlc99j",
+      "name": "ARIEL VALERIO",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:17.520Z",
+      "updatedAt": "2025-12-02T21:02:17.520Z"
+    },
+    {
+      "id": "cmip2djh30020c1fu4463b1pe",
+      "name": "Adrian Perrone",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:17.559Z",
+      "updatedAt": "2025-12-02T21:02:17.559Z"
+    },
+    {
+      "id": "cmip2djhm0023c1fumxqhwado",
+      "name": "Adriana Restaino",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:17.579Z",
+      "updatedAt": "2025-12-02T21:02:17.579Z"
+    },
+    {
+      "id": "cmip2djid0028c1fur6tn88pm",
+      "name": "ADRIANA CENA",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:17.606Z",
+      "updatedAt": "2025-12-02T21:02:17.606Z"
+    },
+    {
+      "id": "cmip2djk9002lc1fudq35u9ap",
+      "name": "ARIEL REGODESEBES",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:17.673Z",
+      "updatedAt": "2025-12-02T21:02:17.673Z"
+    },
+    {
+      "id": "cmip2djm5002yc1fuwoe2eovx",
+      "name": "CAMILA GIL ",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:17.741Z",
+      "updatedAt": "2025-12-02T21:02:17.741Z"
+    },
+    {
+      "id": "cmip2djmn0031c1fuym52hopw",
+      "name": "CINTIA ELIAS",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:17.760Z",
+      "updatedAt": "2025-12-02T21:02:17.760Z"
+    },
+    {
+      "id": "cmip2djny003ac1fuuqc9bhxx",
+      "name": "CLAUDIA ESQUIVEL",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:17.806Z",
+      "updatedAt": "2025-12-02T21:02:17.806Z"
+    },
+    {
+      "id": "cmip2djoi003dc1fugfxczxbt",
+      "name": "CLAUDIA FONTANA",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:17.826Z",
+      "updatedAt": "2025-12-02T21:02:17.826Z"
+    },
+    {
+      "id": "cmip2djpa003ic1fuc39fs8gv",
+      "name": "CLAUDIO BALART",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:17.854Z",
+      "updatedAt": "2025-12-02T21:02:17.854Z"
+    },
+    {
+      "id": "cmip2djqk003rc1fu0f75ygw9",
+      "name": "Claudio Romero",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:17.900Z",
+      "updatedAt": "2025-12-02T21:02:17.900Z"
+    },
+    {
+      "id": "cmip2djrd003wc1fuxk7asvyw",
+      "name": "Daniela Rovito",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:17.930Z",
+      "updatedAt": "2025-12-02T21:02:17.930Z"
+    },
+    {
+      "id": "cmip2djs70041c1fusg13z0s9",
+      "name": "DANIELA CARRABETA",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:17.960Z",
+      "updatedAt": "2025-12-02T21:02:17.960Z"
+    },
+    {
+      "id": "cmip2djtw004cc1fu33otu150",
+      "name": "Daniel Barati",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:18.020Z",
+      "updatedAt": "2025-12-02T21:02:18.020Z"
+    },
+    {
+      "id": "cmip2djur004hc1fugx3mlmz7",
+      "name": "DANIEL FONTANA",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:18.051Z",
+      "updatedAt": "2025-12-02T21:02:18.051Z"
+    },
+    {
+      "id": "cmip2djvn004mc1fu2luay0ex",
+      "name": "DAFNE APUGLIESE",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:18.084Z",
+      "updatedAt": "2025-12-02T21:02:18.084Z"
+    },
+    {
+      "id": "cmip2djxc004xc1fugx0fxebi",
+      "name": "DEBORA ARGUELLO",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:18.144Z",
+      "updatedAt": "2025-12-02T21:02:18.144Z"
+    },
+    {
+      "id": "cmip2djyo0056c1fuu14qr2rq",
+      "name": "Delvi Martini",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:18.192Z",
+      "updatedAt": "2025-12-02T21:02:18.192Z"
+    },
+    {
+      "id": "cmip2djzq005dc1furxwjh6c5",
+      "name": "Dominique Shone",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:18.231Z",
+      "updatedAt": "2025-12-02T21:02:18.231Z"
+    },
+    {
+      "id": "cmip2dk0a005gc1fuvjdx90tg",
+      "name": "EDUARDO VILCHEZ",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:18.250Z",
+      "updatedAt": "2025-12-02T21:02:18.250Z"
+    },
+    {
+      "id": "cmip2dk0s005jc1fu3un3975s",
+      "name": "ESTER BERNAL",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:18.268Z",
+      "updatedAt": "2025-12-02T21:02:18.268Z"
+    },
+    {
+      "id": "cmip2dk2z005yc1fuk5aci8xd",
+      "name": "Elsa Mirta Miranda",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:18.348Z",
+      "updatedAt": "2025-12-02T21:02:18.348Z"
+    },
+    {
+      "id": "cmip2dk4c0067c1fumt29b5th",
+      "name": "ELIZABETH ORELLANO ",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:18.396Z",
+      "updatedAt": "2025-12-02T21:02:18.396Z"
+    },
+    {
+      "id": "cmip2dk4v006ac1fuof2blaxl",
+      "name": "ELIZABETH GAGO ",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:18.415Z",
+      "updatedAt": "2025-12-02T21:02:18.415Z"
+    },
+    {
+      "id": "cmip2dk69006jc1fuet0emj4q",
+      "name": "EMANUEL",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:18.465Z",
+      "updatedAt": "2025-12-02T21:02:18.465Z"
+    },
+    {
+      "id": "cmip2dk8f006yc1fuueoiigau",
+      "name": "Fernando Martín",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:18.544Z",
+      "updatedAt": "2025-12-02T21:02:18.544Z"
+    },
+    {
+      "id": "cmip2dk980073c1fuha1r2y7h",
+      "name": "ENRIQUE CHINGOLETI",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:18.572Z",
+      "updatedAt": "2025-12-02T21:02:18.572Z"
+    },
+    {
+      "id": "cmip2dkal007cc1fu11eoc9ws",
+      "name": "Eugenio Rodolfo",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:18.621Z",
+      "updatedAt": "2025-12-02T21:02:18.621Z"
+    },
+    {
+      "id": "cmip2dkbf007hc1fuhej9rcvq",
+      "name": "FLAVIO COVACEVICH",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:18.651Z",
+      "updatedAt": "2025-12-02T21:02:18.651Z"
+    },
+    {
+      "id": "cmip2dkdm007wc1fujyifxbz3",
+      "name": "FABRICCIO MAURO ",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:18.730Z",
+      "updatedAt": "2025-12-02T21:02:18.730Z"
+    },
+    {
+      "id": "cmip2dkgk008bc1fub0zx3j30",
+      "name": "FLORENCIA DIETRICH",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:18.836Z",
+      "updatedAt": "2025-12-02T21:02:18.836Z"
+    },
+    {
+      "id": "cmip2dkio008qc1fuzjb66b8m",
+      "name": "GONZALO CASADIDIO",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:18.912Z",
+      "updatedAt": "2025-12-02T21:02:18.912Z"
+    },
+    {
+      "id": "cmip2dkl10095c1fuakq6ybmu",
+      "name": "Graciela Vargas",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:18.997Z",
+      "updatedAt": "2025-12-02T21:02:18.997Z"
+    },
+    {
+      "id": "cmip2dkmg009ec1fuqku1nepe",
+      "name": "Gladys Colman",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:19.049Z",
+      "updatedAt": "2025-12-02T21:02:19.049Z"
+    },
+    {
+      "id": "cmip2dkmy009hc1fu5jbbaqp7",
+      "name": "Griselda Solis",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:19.067Z",
+      "updatedAt": "2025-12-02T21:02:19.067Z"
+    },
+    {
+      "id": "cmip2dko0009oc1fus7gq9run",
+      "name": "GLORIA BANDIN",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:19.105Z",
+      "updatedAt": "2025-12-02T21:02:19.105Z"
+    },
+    {
+      "id": "cmip2dkpe009xc1fuf676357s",
+      "name": "GRACIELA DI VITA",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:19.155Z",
+      "updatedAt": "2025-12-02T21:02:19.155Z"
+    },
+    {
+      "id": "cmip2dkqo00a6c1funyjnvuss",
+      "name": "HORACIO MAURO",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:19.200Z",
+      "updatedAt": "2025-12-02T21:02:19.200Z"
+    },
+    {
+      "id": "cmip2dktj00alc1fuajk2wc4b",
+      "name": "HUMBERTO PERALTA",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:19.303Z",
+      "updatedAt": "2025-12-02T21:02:19.303Z"
+    },
+    {
+      "id": "cmip2dktt00amc1fuiw9z9lf3",
+      "name": "ISABEL SUDOL",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:19.314Z",
+      "updatedAt": "2025-12-02T21:02:19.314Z"
+    },
+    {
+      "id": "cmip2dkv300avc1futw24mby1",
+      "name": "Juan Franchini",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:19.360Z",
+      "updatedAt": "2025-12-02T21:02:19.360Z"
+    },
+    {
+      "id": "cmip2dkvn00ayc1fuw04ngp5j",
+      "name": "Julieta Arce",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:19.379Z",
+      "updatedAt": "2025-12-02T21:02:19.379Z"
+    },
+    {
+      "id": "cmip2dkwf00b3c1fuqtlevyuj",
+      "name": "Julieta Berghella",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:19.408Z",
+      "updatedAt": "2025-12-02T21:02:19.408Z"
+    },
+    {
+      "id": "cmip2dkwy00b6c1fusuzb6qeg",
+      "name": "JULIO PACIARONI",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:19.427Z",
+      "updatedAt": "2025-12-02T21:02:19.427Z"
+    },
+    {
+      "id": "cmip2dkxq00bbc1fu0ujgwxp2",
+      "name": "JESICA LAMAS",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:19.455Z",
+      "updatedAt": "2025-12-02T21:02:19.455Z"
+    },
+    {
+      "id": "cmip2dkzb00bmc1fubw3ohagd",
+      "name": "Jorge Fernandez",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:19.511Z",
+      "updatedAt": "2025-12-02T21:02:19.511Z"
+    },
+    {
+      "id": "cmip2dl0300brc1fux0jr6ycv",
+      "name": "KAREN MONSON",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:19.540Z",
+      "updatedAt": "2025-12-02T21:02:19.540Z"
+    },
+    {
+      "id": "cmip2dl0m00buc1fufpqaw10a",
+      "name": "KARINA PRAINO ",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:19.559Z",
+      "updatedAt": "2025-12-02T21:02:19.559Z"
+    },
+    {
+      "id": "cmip2dl1600bxc1fum9bqbqui",
+      "name": "KEVIN PARIS",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:19.579Z",
+      "updatedAt": "2025-12-02T21:02:19.579Z"
+    },
+    {
+      "id": "cmip2dl2q00c8c1ful9gyk52m",
+      "name": "LAURA DE VITO",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:19.635Z",
+      "updatedAt": "2025-12-02T21:02:19.635Z"
+    },
+    {
+      "id": "cmip2dl4e00cjc1fuel730oou",
+      "name": "LEANDRO CAPACCI",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:19.694Z",
+      "updatedAt": "2025-12-02T21:02:19.694Z"
+    },
+    {
+      "id": "cmip2dl5600coc1fub9461t7v",
+      "name": "LEONEL DANELON",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:19.722Z",
+      "updatedAt": "2025-12-02T21:02:19.722Z"
+    },
+    {
+      "id": "cmip2dl5y00ctc1fux8c6p0cz",
+      "name": "Leticia Brollo",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:19.750Z",
+      "updatedAt": "2025-12-02T21:02:19.750Z"
+    },
+    {
+      "id": "cmip2dl7t00cyc1fu26mlt1zz",
+      "name": "Lidia Comini",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:19.818Z",
+      "updatedAt": "2025-12-02T21:02:19.818Z"
+    },
+    {
+      "id": "cmip2dl8d00d1c1furnr1i86y",
+      "name": "Lidia Lavezze",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:19.837Z",
+      "updatedAt": "2025-12-02T21:02:19.837Z"
+    },
+    {
+      "id": "cmip2dlad00dgc1fuxygfz3xm",
+      "name": "LIDIA SOLA",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:19.909Z",
+      "updatedAt": "2025-12-02T21:02:19.909Z"
+    },
+    {
+      "id": "cmip2dlce00dvc1fu41jwiowz",
+      "name": "LUCAS MUÑOZ",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:19.982Z",
+      "updatedAt": "2025-12-02T21:02:19.982Z"
+    },
+    {
+      "id": "cmip2dle800e8c1ful53ng9vx",
+      "name": "LUCIANO GONZALEZ",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:20.049Z",
+      "updatedAt": "2025-12-02T21:02:20.049Z"
+    },
+    {
+      "id": "cmip2dlfb00efc1fuzy48ik8v",
+      "name": "LUDMILA PALOMINO",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:20.087Z",
+      "updatedAt": "2025-12-02T21:02:20.087Z"
+    },
+    {
+      "id": "cmip2dlgy00eqc1fu9ltbhfwx",
+      "name": "LOLA BIANCHI ",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:20.146Z",
+      "updatedAt": "2025-12-02T21:02:20.146Z"
+    },
+    {
+      "id": "cmip2dlhq00evc1fu4tmt4ooe",
+      "name": "Lourdes Remero",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:20.175Z",
+      "updatedAt": "2025-12-02T21:02:20.175Z"
+    },
+    {
+      "id": "cmip2dljq00f8c1fuz482xatn",
+      "name": "MARIELA SANCHEZ",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:20.246Z",
+      "updatedAt": "2025-12-02T21:02:20.246Z"
+    },
+    {
+      "id": "cmip2dlki00fdc1fuvo15chnw",
+      "name": "MARIA INES SCAGLIONI ",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:20.274Z",
+      "updatedAt": "2025-12-02T21:02:20.274Z"
+    },
+    {
+      "id": "cmip2dllv00fmc1fucmbngjzu",
+      "name": "Maria Laura Platero",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:20.324Z",
+      "updatedAt": "2025-12-02T21:02:20.324Z"
+    },
+    {
+      "id": "cmip2dlmj00fpc1fuoieiap2g",
+      "name": "MARIA ESTER GONZALES",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:20.347Z",
+      "updatedAt": "2025-12-02T21:02:20.347Z"
+    },
+    {
+      "id": "cmip2dlmy00fqc1fup2okzoiu",
+      "name": "MARIA JOSE AMARO",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:20.363Z",
+      "updatedAt": "2025-12-02T21:02:20.363Z"
+    },
+    {
+      "id": "cmip2dln800frc1fu6f5a7nsz",
+      "name": "MARIA DELIA VASCONI ",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:20.373Z",
+      "updatedAt": "2025-12-02T21:02:20.373Z"
+    },
+    {
+      "id": "cmip2dlow00g2c1fux9lpmq4k",
+      "name": "Mabel Polinesi ",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:20.432Z",
+      "updatedAt": "2025-12-02T21:02:20.432Z"
+    },
+    {
+      "id": "cmip2dlr000ghc1fu1r59txnn",
+      "name": "MARLENE CABALLERO ",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:20.508Z",
+      "updatedAt": "2025-12-02T21:02:20.508Z"
+    },
+    {
+      "id": "cmip2dlri00gkc1fuhbk01m74",
+      "name": "Mariano Bessolo",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:20.526Z",
+      "updatedAt": "2025-12-02T21:02:20.526Z"
+    },
+    {
+      "id": "cmip2dls100gnc1fu4wj60er7",
+      "name": "Martin Dinanno",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:20.545Z",
+      "updatedAt": "2025-12-02T21:02:20.545Z"
+    },
+    {
+      "id": "cmip2dlt300guc1fui234x4ox",
+      "name": "Martina Vega",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:20.583Z",
+      "updatedAt": "2025-12-02T21:02:20.583Z"
+    },
+    {
+      "id": "cmip2dlu400h1c1fu5a03git8",
+      "name": "MATIAS PARIS",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:20.620Z",
+      "updatedAt": "2025-12-02T21:02:20.620Z"
+    },
+    {
+      "id": "cmip2dlue00h2c1fu1sbllzqh",
+      "name": "MAURO GONZALEZ",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:20.630Z",
+      "updatedAt": "2025-12-02T21:02:20.630Z"
+    },
+    {
+      "id": "cmip2dlw000hdc1fu71mggmlq",
+      "name": "Miriam Moretti",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:20.688Z",
+      "updatedAt": "2025-12-02T21:02:20.688Z"
+    },
+    {
+      "id": "cmip2dlwr00hic1fuaiet52w0",
+      "name": " Monica Ferrando GYM",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:20.715Z",
+      "updatedAt": "2025-12-02T21:02:20.715Z"
+    },
+    {
+      "id": "cmip2dlyb00htc1fuouidw030",
+      "name": "MONICA SVAMPA",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:20.771Z",
+      "updatedAt": "2025-12-02T21:02:20.771Z"
+    },
+    {
+      "id": "cmip2dm0600i6c1fu53hscnp5",
+      "name": "Mia Lopez",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:20.838Z",
+      "updatedAt": "2025-12-02T21:02:20.838Z"
+    },
+    {
+      "id": "cmip2dm0q00i9c1furfyacm4r",
+      "name": "MIA SOSA",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:20.858Z",
+      "updatedAt": "2025-12-02T21:02:20.858Z"
+    },
+    {
+      "id": "cmip2dm2i00imc1futgybpsv1",
+      "name": "Milagros Rodriguez",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:20.923Z",
+      "updatedAt": "2025-12-02T21:02:20.923Z"
+    },
+    {
+      "id": "cmip2dm2r00inc1fu61l959c9",
+      "name": "MONICA ARGENTE",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:20.932Z",
+      "updatedAt": "2025-12-02T21:02:20.932Z"
+    },
+    {
+      "id": "cmip2dm4l00j0c1funcmrum21",
+      "name": "Natalia Miguelezzi",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:20.997Z",
+      "updatedAt": "2025-12-02T21:02:20.997Z"
+    },
+    {
+      "id": "cmip2dm4w00j1c1funzs68e6p",
+      "name": "Nerina Ciraolo",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:21.008Z",
+      "updatedAt": "2025-12-02T21:02:21.008Z"
+    },
+    {
+      "id": "cmip2dm5h00j4c1fue7kgnxxt",
+      "name": "NICOLAS GIANELLI ",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:21.029Z",
+      "updatedAt": "2025-12-02T21:02:21.029Z"
+    },
+    {
+      "id": "cmip2dm6n00jbc1ful9ufq3xh",
+      "name": "Nicolas Lopez",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:21.071Z",
+      "updatedAt": "2025-12-02T21:02:21.071Z"
+    },
+    {
+      "id": "cmip2dm7900jec1fuyc8rbmmm",
+      "name": "Norberto Kolus",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:21.093Z",
+      "updatedAt": "2025-12-02T21:02:21.093Z"
+    },
+    {
+      "id": "cmip2dm7r00jhc1fu9k6cbggg",
+      "name": "NORMA GONGORA ",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:21.112Z",
+      "updatedAt": "2025-12-02T21:02:21.112Z"
+    },
+    {
+      "id": "cmip2dm9200jqc1fu3rqpl09i",
+      "name": "Olga Rosales",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:21.158Z",
+      "updatedAt": "2025-12-02T21:02:21.158Z"
+    },
+    {
+      "id": "cmip2dm9k00jtc1fu8rnj58da",
+      "name": "Pablo Villaggi",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:21.177Z",
+      "updatedAt": "2025-12-02T21:02:21.177Z"
+    },
+    {
+      "id": "cmip2dmab00jyc1fuodrvzprx",
+      "name": "PAOLA REGINA",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:21.204Z",
+      "updatedAt": "2025-12-02T21:02:21.204Z"
+    },
+    {
+      "id": "cmip2dmau00k1c1fu8h0dy0wu",
+      "name": "Paula Zotta",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:21.222Z",
+      "updatedAt": "2025-12-02T21:02:21.222Z"
+    },
+    {
+      "id": "cmip2dmce00kcc1fu1j33cxhk",
+      "name": "PAPA",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:21.278Z",
+      "updatedAt": "2025-12-02T21:02:21.278Z"
+    },
+    {
+      "id": "cmip2dmdv00khc1fumogsfpfj",
+      "name": "RAUL CARRERAS",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:21.332Z",
+      "updatedAt": "2025-12-02T21:02:21.332Z"
+    },
+    {
+      "id": "cmip2dmfq00kuc1fuk7jvmehn",
+      "name": "ROMINA CARRARA",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:21.399Z",
+      "updatedAt": "2025-12-02T21:02:21.399Z"
+    },
+    {
+      "id": "cmip2dmhl00l7c1futhayswym",
+      "name": "Rosana Roldan",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:21.465Z",
+      "updatedAt": "2025-12-02T21:02:21.465Z"
+    },
+    {
+      "id": "cmip2dmjq00lmc1fu6p2ilxyg",
+      "name": "Sergio Paris",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:21.542Z",
+      "updatedAt": "2025-12-02T21:02:21.542Z"
+    },
+    {
+      "id": "cmip2dmk800lpc1fu96lnch6l",
+      "name": "Sebastian Casalengo",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:21.560Z",
+      "updatedAt": "2025-12-02T21:02:21.560Z"
+    },
+    {
+      "id": "cmip2dmlu00m0c1fue8cftr86",
+      "name": "STELLA LUCANTONI",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:21.618Z",
+      "updatedAt": "2025-12-02T21:02:21.618Z"
+    },
+    {
+      "id": "cmip2dmmc00m3c1fuiiub8ksr",
+      "name": "RAUL CAVAGLIATTO",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:21.637Z",
+      "updatedAt": "2025-12-02T21:02:21.637Z"
+    },
+    {
+      "id": "cmip2dmoj00mic1fuecqy7c03",
+      "name": "SILVIA BARTULOCIVH",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:21.716Z",
+      "updatedAt": "2025-12-02T21:02:21.716Z"
+    },
+    {
+      "id": "cmip2dmre00mxc1fuaxiwx9md",
+      "name": "SILVINA MARTINO",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:21.819Z",
+      "updatedAt": "2025-12-02T21:02:21.819Z"
+    },
+    {
+      "id": "cmip2dmtc00nac1fubhs382o7",
+      "name": "SILVIA CHIAPERO",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:21.889Z",
+      "updatedAt": "2025-12-02T21:02:21.889Z"
+    },
+    {
+      "id": "cmip2dmve00npc1fuyftbo1s1",
+      "name": "Silvina Affonso",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:21.963Z",
+      "updatedAt": "2025-12-02T21:02:21.963Z"
+    },
+    {
+      "id": "cmip2dmwq00nyc1fualtil1j9",
+      "name": "SUSANA SAN MARTIN ",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:22.010Z",
+      "updatedAt": "2025-12-02T21:02:22.010Z"
+    },
+    {
+      "id": "cmip2dmxj00o3c1fubtqwncyn",
+      "name": "Stefania Lombardi",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:22.039Z",
+      "updatedAt": "2025-12-02T21:02:22.039Z"
+    },
+    {
+      "id": "cmip2dmyk00oac1fudj8ifthj",
+      "name": "Stella Maris Rocca",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:22.077Z",
+      "updatedAt": "2025-12-02T21:02:22.077Z"
+    },
+    {
+      "id": "cmip2dn2q00onc1fu7lnsv55t",
+      "name": "VANESA DEL PINO ",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:22.227Z",
+      "updatedAt": "2025-12-02T21:02:22.227Z"
+    },
+    {
+      "id": "cmip2dn2z00ooc1fu2j5iak98",
+      "name": "VALENTINA PASIARONI ",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:22.235Z",
+      "updatedAt": "2025-12-02T21:02:22.235Z"
+    },
+    {
+      "id": "cmip2dn3900opc1fudeh40yns",
+      "name": "VIVIANA PUIGSUBIRA",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:22.245Z",
+      "updatedAt": "2025-12-02T21:02:22.245Z"
+    },
+    {
+      "id": "cmip2dn5d00p4c1fubog6x9ph",
+      "name": "EXTRAS",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:22.322Z",
+      "updatedAt": "2025-12-02T21:02:22.322Z"
+    },
+    {
+      "id": "cmip2dn5n00p5c1fuw7a2xkws",
+      "name": "URGENCIA",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:22.331Z",
+      "updatedAt": "2025-12-02T21:02:22.331Z"
+    },
+    {
+      "id": "cmip2dn7d00pgc1fu9eefwt9i",
+      "name": "INTERNET",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:22.393Z",
+      "updatedAt": "2025-12-02T21:02:22.393Z"
+    },
+    {
+      "id": "cmip2dn8g00pnc1funhhrh1kp",
+      "name": "ADT",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:22.433Z",
+      "updatedAt": "2025-12-02T21:02:22.433Z"
+    },
+    {
+      "id": "cmip2dn8p00poc1fufcipij8a",
+      "name": "API",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:22.442Z",
+      "updatedAt": "2025-12-02T21:02:22.442Z"
+    },
+    {
+      "id": "cmip2dn9i00ptc1fugvilqkmu",
+      "name": "TGI",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:22.471Z",
+      "updatedAt": "2025-12-02T21:02:22.471Z"
+    },
+    {
+      "id": "cmip2dna100pwc1fuhv4ue96d",
+      "name": "GABRIEL",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:22.489Z",
+      "updatedAt": "2025-12-02T21:02:22.489Z"
+    },
+    {
+      "id": "cmip2dnaa00pxc1fu4p1p24e2",
+      "name": "AYSAR",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:22.499Z",
+      "updatedAt": "2025-12-02T21:02:22.499Z"
+    },
+    {
+      "id": "cmip2dnaj00pyc1fu68lmzveh",
+      "name": "LAUREANO",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:22.508Z",
+      "updatedAt": "2025-12-02T21:02:22.508Z"
+    },
+    {
+      "id": "cmip2dnat00pzc1fu1cy9mkvy",
+      "name": "MILENA",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:22.518Z",
+      "updatedAt": "2025-12-02T21:02:22.518Z"
+    },
+    {
+      "id": "cmip2dnb300q0c1fuprtag4nh",
+      "name": "SEGURO",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:22.527Z",
+      "updatedAt": "2025-12-02T21:02:22.527Z"
+    },
+    {
+      "id": "cmip2dnco00qbc1fub39jf1vn",
+      "name": "LIMPIEZA ",
+      "documentNumber": null,
+      "phone": null,
+      "notes": null,
+      "isActive": true,
+      "createdAt": "2025-12-02T21:02:22.584Z",
+      "updatedAt": "2025-12-02T21:02:22.584Z"
+    }
+  ],
+  "payments": [
+    {
+      "id": "cmip2dj610002c1fuz8k1957x",
+      "amount": 45993,
+      "date": "2025-02-01T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2dj5i0000c1fuws3ixcas",
+      "createdAt": "2025-12-02T21:02:17.161Z",
+      "updatedAt": "2025-12-02T21:02:17.161Z"
+    },
+    {
+      "id": "cmip2dj6d0004c1fu3f4jcz2o",
+      "amount": 0,
+      "date": "2025-03-19T03:00:00.000Z",
+      "notes": "Imported from MARZO",
+      "clientId": "cmip2dj5i0000c1fuws3ixcas",
+      "createdAt": "2025-12-02T21:02:17.174Z",
+      "updatedAt": "2025-12-02T21:02:17.174Z"
+    },
+    {
+      "id": "cmip2dj6n0006c1fuprb5f7u2",
+      "amount": 0,
+      "date": "2025-04-14T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dj5i0000c1fuws3ixcas",
+      "createdAt": "2025-12-02T21:02:17.184Z",
+      "updatedAt": "2025-12-02T21:02:17.184Z"
+    },
+    {
+      "id": "cmip2dj6x0008c1fuajlziwlk",
+      "amount": 45996,
+      "date": "2025-05-01T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dj5i0000c1fuws3ixcas",
+      "createdAt": "2025-12-02T21:02:17.194Z",
+      "updatedAt": "2025-12-02T21:02:17.194Z"
+    },
+    {
+      "id": "cmip2dj77000ac1fukys0eyi8",
+      "amount": 45968,
+      "date": "2025-07-01T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dj5i0000c1fuws3ixcas",
+      "createdAt": "2025-12-02T21:02:17.204Z",
+      "updatedAt": "2025-12-02T21:02:17.204Z"
+    },
+    {
+      "id": "cmip2dj7t000dc1fu0pq0vxcg",
+      "amount": 45664,
+      "date": "2025-07-01T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dj7i000bc1fupbaiudxh",
+      "createdAt": "2025-12-02T21:02:17.225Z",
+      "updatedAt": "2025-12-02T21:02:17.225Z"
+    },
+    {
+      "id": "cmip2dj83000fc1fuu1p6mb3w",
+      "amount": 45785,
+      "date": "2025-08-01T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dj7i000bc1fupbaiudxh",
+      "createdAt": "2025-12-02T21:02:17.235Z",
+      "updatedAt": "2025-12-02T21:02:17.235Z"
+    },
+    {
+      "id": "cmip2dj8m000ic1fuw3y6v3sq",
+      "amount": 0,
+      "date": "2025-05-20T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dj8d000gc1fumm8ardh1",
+      "createdAt": "2025-12-02T21:02:17.254Z",
+      "updatedAt": "2025-12-02T21:02:17.254Z"
+    },
+    {
+      "id": "cmip2dj95000lc1fug3gbw44o",
+      "amount": 45934,
+      "date": "2025-04-01T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dj8w000jc1fundrcajsj",
+      "createdAt": "2025-12-02T21:02:17.273Z",
+      "updatedAt": "2025-12-02T21:02:17.273Z"
+    },
+    {
+      "id": "cmip2dj9p000oc1fulzvk10sb",
+      "amount": 0,
+      "date": "2025-05-16T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dj9f000mc1fuvwujv5xe",
+      "createdAt": "2025-12-02T21:02:17.294Z",
+      "updatedAt": "2025-12-02T21:02:17.294Z"
+    },
+    {
+      "id": "cmip2dja7000rc1fu0jxqo3er",
+      "amount": 0,
+      "date": "2025-05-21T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dj9y000pc1fu0bjobotl",
+      "createdAt": "2025-12-02T21:02:17.311Z",
+      "updatedAt": "2025-12-02T21:02:17.311Z"
+    },
+    {
+      "id": "cmip2djah000tc1fuo0i3wohl",
+      "amount": 0,
+      "date": "2025-07-23T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dj9y000pc1fu0bjobotl",
+      "createdAt": "2025-12-02T21:02:17.321Z",
+      "updatedAt": "2025-12-02T21:02:17.321Z"
+    },
+    {
+      "id": "cmip2djar000vc1fujybf4b4z",
+      "amount": 0,
+      "date": "2025-08-21T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dj9y000pc1fu0bjobotl",
+      "createdAt": "2025-12-02T21:02:17.331Z",
+      "updatedAt": "2025-12-02T21:02:17.331Z"
+    },
+    {
+      "id": "cmip2djba000yc1furvbcrl8f",
+      "amount": 0,
+      "date": "2025-05-20T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2djb1000wc1fu72g1iy4a",
+      "createdAt": "2025-12-02T21:02:17.350Z",
+      "updatedAt": "2025-12-02T21:02:17.350Z"
+    },
+    {
+      "id": "cmip2djbt0011c1ful1khf5r8",
+      "amount": 45780,
+      "date": "2025-03-01T03:00:00.000Z",
+      "notes": "Imported from MARZO",
+      "clientId": "cmip2djbk000zc1furumlgjp9",
+      "createdAt": "2025-12-02T21:02:17.369Z",
+      "updatedAt": "2025-12-02T21:02:17.369Z"
+    },
+    {
+      "id": "cmip2djc20013c1fuk4y67b4r",
+      "amount": 45842,
+      "date": "2025-04-01T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2djbk000zc1furumlgjp9",
+      "createdAt": "2025-12-02T21:02:17.379Z",
+      "updatedAt": "2025-12-02T21:02:17.379Z"
+    },
+    {
+      "id": "cmip2djcc0015c1fufv6sldmt",
+      "amount": 45843,
+      "date": "2025-05-01T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2djbk000zc1furumlgjp9",
+      "createdAt": "2025-12-02T21:02:17.388Z",
+      "updatedAt": "2025-12-02T21:02:17.388Z"
+    },
+    {
+      "id": "cmip2djcl0017c1fuoktlbdyu",
+      "amount": 45754,
+      "date": "2025-07-01T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2djbk000zc1furumlgjp9",
+      "createdAt": "2025-12-02T21:02:17.397Z",
+      "updatedAt": "2025-12-02T21:02:17.397Z"
+    },
+    {
+      "id": "cmip2djcu0019c1fu4ytp6y3w",
+      "amount": 45755,
+      "date": "2025-08-01T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2djbk000zc1furumlgjp9",
+      "createdAt": "2025-12-02T21:02:17.407Z",
+      "updatedAt": "2025-12-02T21:02:17.407Z"
+    },
+    {
+      "id": "cmip2djd4001bc1fus0fcdycs",
+      "amount": 45878,
+      "date": "2025-09-01T03:00:00.000Z",
+      "notes": "Imported from SEPTIEMBRE",
+      "clientId": "cmip2djbk000zc1furumlgjp9",
+      "createdAt": "2025-12-02T21:02:17.416Z",
+      "updatedAt": "2025-12-02T21:02:17.416Z"
+    },
+    {
+      "id": "cmip2djdn001ec1fujucd9edv",
+      "amount": 0,
+      "date": "2025-04-29T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2djdd001cc1fusfh7b89z",
+      "createdAt": "2025-12-02T21:02:17.436Z",
+      "updatedAt": "2025-12-02T21:02:17.436Z"
+    },
+    {
+      "id": "cmip2dje7001hc1fu597i1w6v",
+      "amount": 45905,
+      "date": "2025-05-01T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2djdw001fc1fux0i10zmf",
+      "createdAt": "2025-12-02T21:02:17.455Z",
+      "updatedAt": "2025-12-02T21:02:17.455Z"
+    },
+    {
+      "id": "cmip2djeq001kc1fuee4ddtb7",
+      "amount": 0,
+      "date": "2025-03-18T03:00:00.000Z",
+      "notes": "Imported from MARZO",
+      "clientId": "cmip2djeg001ic1fu9k1vtp5s",
+      "createdAt": "2025-12-02T21:02:17.474Z",
+      "updatedAt": "2025-12-02T21:02:17.474Z"
+    },
+    {
+      "id": "cmip2djez001mc1fucwk4gw36",
+      "amount": 45693,
+      "date": "2025-04-01T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2djeg001ic1fu9k1vtp5s",
+      "createdAt": "2025-12-02T21:02:17.483Z",
+      "updatedAt": "2025-12-02T21:02:17.483Z"
+    },
+    {
+      "id": "cmip2djf8001oc1fuiqa8ie7b",
+      "amount": 0,
+      "date": "2025-05-18T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2djeg001ic1fu9k1vtp5s",
+      "createdAt": "2025-12-02T21:02:17.492Z",
+      "updatedAt": "2025-12-02T21:02:17.492Z"
+    },
+    {
+      "id": "cmip2djfh001qc1fu39h54st0",
+      "amount": 45968,
+      "date": "2025-07-01T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2djeg001ic1fu9k1vtp5s",
+      "createdAt": "2025-12-02T21:02:17.502Z",
+      "updatedAt": "2025-12-02T21:02:17.502Z"
+    },
+    {
+      "id": "cmip2djfq001sc1fuxtagryly",
+      "amount": 0,
+      "date": "2025-08-29T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2djeg001ic1fu9k1vtp5s",
+      "createdAt": "2025-12-02T21:02:17.511Z",
+      "updatedAt": "2025-12-02T21:02:17.511Z"
+    },
+    {
+      "id": "cmip2djga001vc1fud43hpu8h",
+      "amount": 45993,
+      "date": "2025-02-01T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2djg0001tc1fug2zlc99j",
+      "createdAt": "2025-12-02T21:02:17.530Z",
+      "updatedAt": "2025-12-02T21:02:17.530Z"
+    },
+    {
+      "id": "cmip2djgj001xc1fuo39f3y70",
+      "amount": 0,
+      "date": "2025-04-30T03:00:00.000Z",
+      "notes": "Imported from MARZO",
+      "clientId": "cmip2djg0001tc1fug2zlc99j",
+      "createdAt": "2025-12-02T21:02:17.540Z",
+      "updatedAt": "2025-12-02T21:02:17.540Z"
+    },
+    {
+      "id": "cmip2djgu001zc1fub7on6ny4",
+      "amount": 45996,
+      "date": "2025-05-01T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2djg0001tc1fug2zlc99j",
+      "createdAt": "2025-12-02T21:02:17.550Z",
+      "updatedAt": "2025-12-02T21:02:17.550Z"
+    },
+    {
+      "id": "cmip2djhd0022c1fun2946y1h",
+      "amount": 0,
+      "date": "2025-07-29T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2djh30020c1fu4463b1pe",
+      "createdAt": "2025-12-02T21:02:17.569Z",
+      "updatedAt": "2025-12-02T21:02:17.569Z"
+    },
+    {
+      "id": "cmip2djhv0025c1fui6u1lhph",
+      "amount": 0,
+      "date": "2025-07-16T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2djhm0023c1fumxqhwado",
+      "createdAt": "2025-12-02T21:02:17.588Z",
+      "updatedAt": "2025-12-02T21:02:17.588Z"
+    },
+    {
+      "id": "cmip2dji40027c1fuf4gjneh8",
+      "amount": 0,
+      "date": "2025-08-19T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2djhm0023c1fumxqhwado",
+      "createdAt": "2025-12-02T21:02:17.596Z",
+      "updatedAt": "2025-12-02T21:02:17.596Z"
+    },
+    {
+      "id": "cmip2djin002ac1fuf2xdit8l",
+      "amount": 45718,
+      "date": "2025-02-01T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2djid0028c1fur6tn88pm",
+      "createdAt": "2025-12-02T21:02:17.615Z",
+      "updatedAt": "2025-12-02T21:02:17.615Z"
+    },
+    {
+      "id": "cmip2djix002cc1fuuy2a5bpb",
+      "amount": 45994,
+      "date": "2025-03-01T03:00:00.000Z",
+      "notes": "Imported from MARZO",
+      "clientId": "cmip2djid0028c1fur6tn88pm",
+      "createdAt": "2025-12-02T21:02:17.625Z",
+      "updatedAt": "2025-12-02T21:02:17.625Z"
+    },
+    {
+      "id": "cmip2djj7002ec1fuxjdwt1ec",
+      "amount": 0,
+      "date": "2025-04-14T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2djid0028c1fur6tn88pm",
+      "createdAt": "2025-12-02T21:02:17.635Z",
+      "updatedAt": "2025-12-02T21:02:17.635Z"
+    },
+    {
+      "id": "cmip2djjh002gc1fud0jcv3rc",
+      "amount": 0,
+      "date": "2025-05-26T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2djid0028c1fur6tn88pm",
+      "createdAt": "2025-12-02T21:02:17.645Z",
+      "updatedAt": "2025-12-02T21:02:17.645Z"
+    },
+    {
+      "id": "cmip2djjq002ic1fuexzk1jxc",
+      "amount": 0,
+      "date": "2025-07-27T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2djid0028c1fur6tn88pm",
+      "createdAt": "2025-12-02T21:02:17.654Z",
+      "updatedAt": "2025-12-02T21:02:17.654Z"
+    },
+    {
+      "id": "cmip2djjz002kc1fuuz15rdu7",
+      "amount": 0,
+      "date": "2025-08-15T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2djid0028c1fur6tn88pm",
+      "createdAt": "2025-12-02T21:02:17.664Z",
+      "updatedAt": "2025-12-02T21:02:17.664Z"
+    },
+    {
+      "id": "cmip2djki002nc1fuleusqhks",
+      "amount": 45749,
+      "date": "2025-02-01T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2djk9002lc1fudq35u9ap",
+      "createdAt": "2025-12-02T21:02:17.683Z",
+      "updatedAt": "2025-12-02T21:02:17.683Z"
+    },
+    {
+      "id": "cmip2djks002pc1fu881nndi8",
+      "amount": 45811,
+      "date": "2025-03-01T03:00:00.000Z",
+      "notes": "Imported from MARZO",
+      "clientId": "cmip2djk9002lc1fudq35u9ap",
+      "createdAt": "2025-12-02T21:02:17.693Z",
+      "updatedAt": "2025-12-02T21:02:17.693Z"
+    },
+    {
+      "id": "cmip2djl3002rc1fuiw6v10mp",
+      "amount": 45661,
+      "date": "2025-04-01T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2djk9002lc1fudq35u9ap",
+      "createdAt": "2025-12-02T21:02:17.703Z",
+      "updatedAt": "2025-12-02T21:02:17.703Z"
+    },
+    {
+      "id": "cmip2djlc002tc1fu36639kkt",
+      "amount": 45754,
+      "date": "2025-07-01T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2djk9002lc1fudq35u9ap",
+      "createdAt": "2025-12-02T21:02:17.713Z",
+      "updatedAt": "2025-12-02T21:02:17.713Z"
+    },
+    {
+      "id": "cmip2djll002vc1fuojpl2zc5",
+      "amount": 45755,
+      "date": "2025-08-01T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2djk9002lc1fudq35u9ap",
+      "createdAt": "2025-12-02T21:02:17.722Z",
+      "updatedAt": "2025-12-02T21:02:17.722Z"
+    },
+    {
+      "id": "cmip2djlv002xc1fuycwq1ks0",
+      "amount": 45666,
+      "date": "2025-09-01T03:00:00.000Z",
+      "notes": "Imported from SEPTIEMBRE",
+      "clientId": "cmip2djk9002lc1fudq35u9ap",
+      "createdAt": "2025-12-02T21:02:17.731Z",
+      "updatedAt": "2025-12-02T21:02:17.731Z"
+    },
+    {
+      "id": "cmip2djme0030c1fux7090jjv",
+      "amount": 45996,
+      "date": "2025-05-01T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2djm5002yc1fuwoe2eovx",
+      "createdAt": "2025-12-02T21:02:17.750Z",
+      "updatedAt": "2025-12-02T21:02:17.750Z"
+    },
+    {
+      "id": "cmip2djmx0033c1fuj8olpwus",
+      "amount": 45780,
+      "date": "2025-03-01T03:00:00.000Z",
+      "notes": "Imported from MARZO",
+      "clientId": "cmip2djmn0031c1fuym52hopw",
+      "createdAt": "2025-12-02T21:02:17.769Z",
+      "updatedAt": "2025-12-02T21:02:17.769Z"
+    },
+    {
+      "id": "cmip2djn60035c1fu7myjgtba",
+      "amount": 45842,
+      "date": "2025-04-01T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2djmn0031c1fuym52hopw",
+      "createdAt": "2025-12-02T21:02:17.779Z",
+      "updatedAt": "2025-12-02T21:02:17.779Z"
+    },
+    {
+      "id": "cmip2djng0037c1fucuxrntub",
+      "amount": 45843,
+      "date": "2025-05-01T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2djmn0031c1fuym52hopw",
+      "createdAt": "2025-12-02T21:02:17.789Z",
+      "updatedAt": "2025-12-02T21:02:17.789Z"
+    },
+    {
+      "id": "cmip2djnq0039c1fuxzyfwx0t",
+      "amount": 0,
+      "date": "2025-07-14T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2djmn0031c1fuym52hopw",
+      "createdAt": "2025-12-02T21:02:17.798Z",
+      "updatedAt": "2025-12-02T21:02:17.798Z"
+    },
+    {
+      "id": "cmip2djo8003cc1fugf5gs3tk",
+      "amount": 45932,
+      "date": "2025-02-01T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2djny003ac1fuuqc9bhxx",
+      "createdAt": "2025-12-02T21:02:17.817Z",
+      "updatedAt": "2025-12-02T21:02:17.817Z"
+    },
+    {
+      "id": "cmip2djor003fc1fup8uzhq3v",
+      "amount": 45993,
+      "date": "2025-02-01T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2djoi003dc1fugfxczxbt",
+      "createdAt": "2025-12-02T21:02:17.836Z",
+      "updatedAt": "2025-12-02T21:02:17.836Z"
+    },
+    {
+      "id": "cmip2djp1003hc1fusy0lqxn0",
+      "amount": 45964,
+      "date": "2025-03-01T03:00:00.000Z",
+      "notes": "Imported from MARZO",
+      "clientId": "cmip2djoi003dc1fugfxczxbt",
+      "createdAt": "2025-12-02T21:02:17.846Z",
+      "updatedAt": "2025-12-02T21:02:17.846Z"
+    },
+    {
+      "id": "cmip2djpj003kc1fuktv696qa",
+      "amount": 45749,
+      "date": "2025-02-01T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2djpa003ic1fuc39fs8gv",
+      "createdAt": "2025-12-02T21:02:17.863Z",
+      "updatedAt": "2025-12-02T21:02:17.863Z"
+    },
+    {
+      "id": "cmip2djps003mc1fujizm1yke",
+      "amount": 45720,
+      "date": "2025-04-01T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2djpa003ic1fuc39fs8gv",
+      "createdAt": "2025-12-02T21:02:17.873Z",
+      "updatedAt": "2025-12-02T21:02:17.873Z"
+    },
+    {
+      "id": "cmip2djq2003oc1fu6l3of04e",
+      "amount": 45813,
+      "date": "2025-05-01T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2djpa003ic1fuc39fs8gv",
+      "createdAt": "2025-12-02T21:02:17.882Z",
+      "updatedAt": "2025-12-02T21:02:17.882Z"
+    },
+    {
+      "id": "cmip2djqb003qc1fucxz9bwtc",
+      "amount": 45876,
+      "date": "2025-07-01T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2djpa003ic1fuc39fs8gv",
+      "createdAt": "2025-12-02T21:02:17.891Z",
+      "updatedAt": "2025-12-02T21:02:17.891Z"
+    },
+    {
+      "id": "cmip2djqu003tc1fu6ej6eoxo",
+      "amount": 0,
+      "date": "2025-07-14T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2djqk003rc1fu0f75ygw9",
+      "createdAt": "2025-12-02T21:02:17.911Z",
+      "updatedAt": "2025-12-02T21:02:17.911Z"
+    },
+    {
+      "id": "cmip2djr3003vc1fu6bjvo5w6",
+      "amount": 0,
+      "date": "2025-08-18T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2djqk003rc1fu0f75ygw9",
+      "createdAt": "2025-12-02T21:02:17.920Z",
+      "updatedAt": "2025-12-02T21:02:17.920Z"
+    },
+    {
+      "id": "cmip2djro003yc1fuokrzjcsf",
+      "amount": 45873,
+      "date": "2025-04-01T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2djrd003wc1fuxk7asvyw",
+      "createdAt": "2025-12-02T21:02:17.940Z",
+      "updatedAt": "2025-12-02T21:02:17.940Z"
+    },
+    {
+      "id": "cmip2djry0040c1fudr1h05lr",
+      "amount": 45905,
+      "date": "2025-05-01T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2djrd003wc1fuxk7asvyw",
+      "createdAt": "2025-12-02T21:02:17.950Z",
+      "updatedAt": "2025-12-02T21:02:17.950Z"
+    },
+    {
+      "id": "cmip2djsh0043c1fuope8m8sn",
+      "amount": 45810,
+      "date": "2025-02-01T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2djs70041c1fusg13z0s9",
+      "createdAt": "2025-12-02T21:02:17.970Z",
+      "updatedAt": "2025-12-02T21:02:17.970Z"
+    },
+    {
+      "id": "cmip2djsr0045c1fuy2b7uiml",
+      "amount": 45811,
+      "date": "2025-03-01T03:00:00.000Z",
+      "notes": "Imported from MARZO",
+      "clientId": "cmip2djs70041c1fusg13z0s9",
+      "createdAt": "2025-12-02T21:02:17.979Z",
+      "updatedAt": "2025-12-02T21:02:17.979Z"
+    },
+    {
+      "id": "cmip2djt10047c1fuajl83xfv",
+      "amount": 45842,
+      "date": "2025-04-01T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2djs70041c1fusg13z0s9",
+      "createdAt": "2025-12-02T21:02:17.989Z",
+      "updatedAt": "2025-12-02T21:02:17.989Z"
+    },
+    {
+      "id": "cmip2djtb0049c1fumhbf4frd",
+      "amount": 45816,
+      "date": "2025-08-01T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2djs70041c1fusg13z0s9",
+      "createdAt": "2025-12-02T21:02:18.000Z",
+      "updatedAt": "2025-12-02T21:02:18.000Z"
+    },
+    {
+      "id": "cmip2djtm004bc1fuxzv71e2r",
+      "amount": 45786,
+      "date": "2025-09-01T03:00:00.000Z",
+      "notes": "Imported from SEPTIEMBRE",
+      "clientId": "cmip2djs70041c1fusg13z0s9",
+      "createdAt": "2025-12-02T21:02:18.010Z",
+      "updatedAt": "2025-12-02T21:02:18.010Z"
+    },
+    {
+      "id": "cmip2dju7004ec1funkumyiyo",
+      "amount": 45751,
+      "date": "2025-04-01T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2djtw004cc1fu33otu150",
+      "createdAt": "2025-12-02T21:02:18.031Z",
+      "updatedAt": "2025-12-02T21:02:18.031Z"
+    },
+    {
+      "id": "cmip2djuh004gc1fupfee6r5b",
+      "amount": 45782,
+      "date": "2025-05-01T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2djtw004cc1fu33otu150",
+      "createdAt": "2025-12-02T21:02:18.041Z",
+      "updatedAt": "2025-12-02T21:02:18.041Z"
+    },
+    {
+      "id": "cmip2djv2004jc1fuywe81q5r",
+      "amount": 45993,
+      "date": "2025-02-01T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2djur004hc1fugx3mlmz7",
+      "createdAt": "2025-12-02T21:02:18.062Z",
+      "updatedAt": "2025-12-02T21:02:18.062Z"
+    },
+    {
+      "id": "cmip2djvd004lc1fu4yn3myzp",
+      "amount": 45964,
+      "date": "2025-03-01T03:00:00.000Z",
+      "notes": "Imported from MARZO",
+      "clientId": "cmip2djur004hc1fugx3mlmz7",
+      "createdAt": "2025-12-02T21:02:18.073Z",
+      "updatedAt": "2025-12-02T21:02:18.073Z"
+    },
+    {
+      "id": "cmip2djvy004oc1fukmyto2c8",
+      "amount": 45779,
+      "date": "2025-02-01T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2djvn004mc1fu2luay0ex",
+      "createdAt": "2025-12-02T21:02:18.095Z",
+      "updatedAt": "2025-12-02T21:02:18.095Z"
+    },
+    {
+      "id": "cmip2djw8004qc1funk3qa27f",
+      "amount": 45841,
+      "date": "2025-03-01T03:00:00.000Z",
+      "notes": "Imported from MARZO",
+      "clientId": "cmip2djvn004mc1fu2luay0ex",
+      "createdAt": "2025-12-02T21:02:18.105Z",
+      "updatedAt": "2025-12-02T21:02:18.105Z"
+    },
+    {
+      "id": "cmip2djwj004sc1fue20qdgen",
+      "amount": 45842,
+      "date": "2025-04-01T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2djvn004mc1fu2luay0ex",
+      "createdAt": "2025-12-02T21:02:18.115Z",
+      "updatedAt": "2025-12-02T21:02:18.115Z"
+    },
+    {
+      "id": "cmip2djwt004uc1fu6wg6wmiu",
+      "amount": 45905,
+      "date": "2025-05-01T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2djvn004mc1fu2luay0ex",
+      "createdAt": "2025-12-02T21:02:18.125Z",
+      "updatedAt": "2025-12-02T21:02:18.125Z"
+    },
+    {
+      "id": "cmip2djx1004wc1fulipd3mdd",
+      "amount": 45876,
+      "date": "2025-07-01T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2djvn004mc1fu2luay0ex",
+      "createdAt": "2025-12-02T21:02:18.134Z",
+      "updatedAt": "2025-12-02T21:02:18.134Z"
+    },
+    {
+      "id": "cmip2djxm004zc1ful62xuipz",
+      "amount": 45779,
+      "date": "2025-02-01T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2djxc004xc1fugx0fxebi",
+      "createdAt": "2025-12-02T21:02:18.154Z",
+      "updatedAt": "2025-12-02T21:02:18.154Z"
+    },
+    {
+      "id": "cmip2djxv0051c1futgowsv33",
+      "amount": 0,
+      "date": "2025-04-14T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2djxc004xc1fugx0fxebi",
+      "createdAt": "2025-12-02T21:02:18.164Z",
+      "updatedAt": "2025-12-02T21:02:18.164Z"
+    },
+    {
+      "id": "cmip2djy50053c1fuu01lbduh",
+      "amount": 0,
+      "date": "2025-07-21T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2djxc004xc1fugx0fxebi",
+      "createdAt": "2025-12-02T21:02:18.173Z",
+      "updatedAt": "2025-12-02T21:02:18.173Z"
+    },
+    {
+      "id": "cmip2djyf0055c1fufj8r9ujs",
+      "amount": 0,
+      "date": "2025-08-21T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2djxc004xc1fugx0fxebi",
+      "createdAt": "2025-12-02T21:02:18.183Z",
+      "updatedAt": "2025-12-02T21:02:18.183Z"
+    },
+    {
+      "id": "cmip2djyx0058c1fuflrjhxwz",
+      "amount": 0,
+      "date": "2025-04-24T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2djyo0056c1fuu14qr2rq",
+      "createdAt": "2025-12-02T21:02:18.201Z",
+      "updatedAt": "2025-12-02T21:02:18.201Z"
+    },
+    {
+      "id": "cmip2djz7005ac1fu97eaiqhv",
+      "amount": 0,
+      "date": "2025-05-22T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2djyo0056c1fuu14qr2rq",
+      "createdAt": "2025-12-02T21:02:18.211Z",
+      "updatedAt": "2025-12-02T21:02:18.211Z"
+    },
+    {
+      "id": "cmip2djzh005cc1fudbkdy05w",
+      "amount": 0,
+      "date": "2025-07-21T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2djyo0056c1fuu14qr2rq",
+      "createdAt": "2025-12-02T21:02:18.221Z",
+      "updatedAt": "2025-12-02T21:02:18.221Z"
+    },
+    {
+      "id": "cmip2dk00005fc1fuurv5u8ek",
+      "amount": 45697,
+      "date": "2025-09-01T03:00:00.000Z",
+      "notes": "Imported from SEPTIEMBRE",
+      "clientId": "cmip2djzq005dc1furxwjh6c5",
+      "createdAt": "2025-12-02T21:02:18.240Z",
+      "updatedAt": "2025-12-02T21:02:18.240Z"
+    },
+    {
+      "id": "cmip2dk0j005ic1fun8v081ad",
+      "amount": 45963,
+      "date": "2025-02-01T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2dk0a005gc1fuvjdx90tg",
+      "createdAt": "2025-12-02T21:02:18.260Z",
+      "updatedAt": "2025-12-02T21:02:18.260Z"
+    },
+    {
+      "id": "cmip2dk11005lc1fu3tnsi2bh",
+      "amount": 45932,
+      "date": "2025-02-01T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2dk0s005jc1fu3un3975s",
+      "createdAt": "2025-12-02T21:02:18.278Z",
+      "updatedAt": "2025-12-02T21:02:18.278Z"
+    },
+    {
+      "id": "cmip2dk1b005nc1fuk8lvalql",
+      "amount": 45903,
+      "date": "2025-03-01T03:00:00.000Z",
+      "notes": "Imported from MARZO",
+      "clientId": "cmip2dk0s005jc1fu3un3975s",
+      "createdAt": "2025-12-02T21:02:18.288Z",
+      "updatedAt": "2025-12-02T21:02:18.288Z"
+    },
+    {
+      "id": "cmip2dk1k005pc1fubzsr8ish",
+      "amount": 45751,
+      "date": "2025-04-01T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dk0s005jc1fu3un3975s",
+      "createdAt": "2025-12-02T21:02:18.297Z",
+      "updatedAt": "2025-12-02T21:02:18.297Z"
+    },
+    {
+      "id": "cmip2dk1u005rc1fumhqls2yj",
+      "amount": 45905,
+      "date": "2025-05-01T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dk0s005jc1fu3un3975s",
+      "createdAt": "2025-12-02T21:02:18.307Z",
+      "updatedAt": "2025-12-02T21:02:18.307Z"
+    },
+    {
+      "id": "cmip2dk24005tc1fusoycxglj",
+      "amount": 45845,
+      "date": "2025-07-01T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dk0s005jc1fu3un3975s",
+      "createdAt": "2025-12-02T21:02:18.317Z",
+      "updatedAt": "2025-12-02T21:02:18.317Z"
+    },
+    {
+      "id": "cmip2dk2f005vc1fuv62hvon0",
+      "amount": 45877,
+      "date": "2025-08-01T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dk0s005jc1fu3un3975s",
+      "createdAt": "2025-12-02T21:02:18.327Z",
+      "updatedAt": "2025-12-02T21:02:18.327Z"
+    },
+    {
+      "id": "cmip2dk2p005xc1fuvyfxe95g",
+      "amount": 45939,
+      "date": "2025-09-01T03:00:00.000Z",
+      "notes": "Imported from SEPTIEMBRE",
+      "clientId": "cmip2dk0s005jc1fu3un3975s",
+      "createdAt": "2025-12-02T21:02:18.337Z",
+      "updatedAt": "2025-12-02T21:02:18.337Z"
+    },
+    {
+      "id": "cmip2dk390060c1fur39vh7u8",
+      "amount": 0,
+      "date": "2025-05-19T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dk2z005yc1fuk5aci8xd",
+      "createdAt": "2025-12-02T21:02:18.357Z",
+      "updatedAt": "2025-12-02T21:02:18.357Z"
+    },
+    {
+      "id": "cmip2dk3j0062c1fuskqpiqfa",
+      "amount": 45937,
+      "date": "2025-07-01T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dk2z005yc1fuk5aci8xd",
+      "createdAt": "2025-12-02T21:02:18.367Z",
+      "updatedAt": "2025-12-02T21:02:18.367Z"
+    },
+    {
+      "id": "cmip2dk3s0064c1futgs4tpsv",
+      "amount": 45969,
+      "date": "2025-08-01T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dk2z005yc1fuk5aci8xd",
+      "createdAt": "2025-12-02T21:02:18.377Z",
+      "updatedAt": "2025-12-02T21:02:18.377Z"
+    },
+    {
+      "id": "cmip2dk420066c1fug4afxnss",
+      "amount": 46000,
+      "date": "2025-09-01T03:00:00.000Z",
+      "notes": "Imported from SEPTIEMBRE",
+      "clientId": "cmip2dk2z005yc1fuk5aci8xd",
+      "createdAt": "2025-12-02T21:02:18.386Z",
+      "updatedAt": "2025-12-02T21:02:18.386Z"
+    },
+    {
+      "id": "cmip2dk4l0069c1fu12vxveau",
+      "amount": 45840,
+      "date": "2025-02-01T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2dk4c0067c1fumt29b5th",
+      "createdAt": "2025-12-02T21:02:18.405Z",
+      "updatedAt": "2025-12-02T21:02:18.405Z"
+    },
+    {
+      "id": "cmip2dk55006cc1fuxlkv7xxg",
+      "amount": 45749,
+      "date": "2025-02-01T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2dk4v006ac1fuof2blaxl",
+      "createdAt": "2025-12-02T21:02:18.425Z",
+      "updatedAt": "2025-12-02T21:02:18.425Z"
+    },
+    {
+      "id": "cmip2dk5f006ec1fuq55556hl",
+      "amount": 45811,
+      "date": "2025-03-01T03:00:00.000Z",
+      "notes": "Imported from MARZO",
+      "clientId": "cmip2dk4v006ac1fuof2blaxl",
+      "createdAt": "2025-12-02T21:02:18.435Z",
+      "updatedAt": "2025-12-02T21:02:18.435Z"
+    },
+    {
+      "id": "cmip2dk5p006gc1fut28yd7vh",
+      "amount": 45812,
+      "date": "2025-04-01T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dk4v006ac1fuof2blaxl",
+      "createdAt": "2025-12-02T21:02:18.446Z",
+      "updatedAt": "2025-12-02T21:02:18.446Z"
+    },
+    {
+      "id": "cmip2dk5z006ic1fufpv7917p",
+      "amount": 45874,
+      "date": "2025-05-01T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dk4v006ac1fuof2blaxl",
+      "createdAt": "2025-12-02T21:02:18.456Z",
+      "updatedAt": "2025-12-02T21:02:18.456Z"
+    },
+    {
+      "id": "cmip2dk6i006lc1fu1ypnf9n9",
+      "amount": 45718,
+      "date": "2025-02-01T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2dk69006jc1fuet0emj4q",
+      "createdAt": "2025-12-02T21:02:18.475Z",
+      "updatedAt": "2025-12-02T21:02:18.475Z"
+    },
+    {
+      "id": "cmip2dk6s006nc1fulf1s5o9t",
+      "amount": 45811,
+      "date": "2025-03-01T03:00:00.000Z",
+      "notes": "Imported from MARZO",
+      "clientId": "cmip2dk69006jc1fuet0emj4q",
+      "createdAt": "2025-12-02T21:02:18.484Z",
+      "updatedAt": "2025-12-02T21:02:18.484Z"
+    },
+    {
+      "id": "cmip2dk71006pc1fudozcow0t",
+      "amount": 45904,
+      "date": "2025-04-01T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dk69006jc1fuet0emj4q",
+      "createdAt": "2025-12-02T21:02:18.493Z",
+      "updatedAt": "2025-12-02T21:02:18.493Z"
+    },
+    {
+      "id": "cmip2dk7b006rc1fud4wvssny",
+      "amount": 45782,
+      "date": "2025-05-01T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dk69006jc1fuet0emj4q",
+      "createdAt": "2025-12-02T21:02:18.504Z",
+      "updatedAt": "2025-12-02T21:02:18.504Z"
+    },
+    {
+      "id": "cmip2dk7l006tc1fu79kzo2z4",
+      "amount": 45845,
+      "date": "2025-07-01T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dk69006jc1fuet0emj4q",
+      "createdAt": "2025-12-02T21:02:18.514Z",
+      "updatedAt": "2025-12-02T21:02:18.514Z"
+    },
+    {
+      "id": "cmip2dk7v006vc1fujtfhs1af",
+      "amount": 45755,
+      "date": "2025-08-01T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dk69006jc1fuet0emj4q",
+      "createdAt": "2025-12-02T21:02:18.524Z",
+      "updatedAt": "2025-12-02T21:02:18.524Z"
+    },
+    {
+      "id": "cmip2dk85006xc1fuy9tc41k3",
+      "amount": 45666,
+      "date": "2025-09-01T03:00:00.000Z",
+      "notes": "Imported from SEPTIEMBRE",
+      "clientId": "cmip2dk69006jc1fuet0emj4q",
+      "createdAt": "2025-12-02T21:02:18.534Z",
+      "updatedAt": "2025-12-02T21:02:18.534Z"
+    },
+    {
+      "id": "cmip2dk8p0070c1fu9cv59vmy",
+      "amount": 0,
+      "date": "2025-07-14T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dk8f006yc1fuueoiigau",
+      "createdAt": "2025-12-02T21:02:18.554Z",
+      "updatedAt": "2025-12-02T21:02:18.554Z"
+    },
+    {
+      "id": "cmip2dk8y0072c1fuadp60e36",
+      "amount": 0,
+      "date": "2025-08-18T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dk8f006yc1fuueoiigau",
+      "createdAt": "2025-12-02T21:02:18.562Z",
+      "updatedAt": "2025-12-02T21:02:18.562Z"
+    },
+    {
+      "id": "cmip2dk9h0075c1fucrmvjqxc",
+      "amount": 0,
+      "date": "2025-02-19T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2dk980073c1fuha1r2y7h",
+      "createdAt": "2025-12-02T21:02:18.582Z",
+      "updatedAt": "2025-12-02T21:02:18.582Z"
+    },
+    {
+      "id": "cmip2dk9r0077c1fubanohb59",
+      "amount": 0,
+      "date": "2025-03-19T03:00:00.000Z",
+      "notes": "Imported from MARZO",
+      "clientId": "cmip2dk980073c1fuha1r2y7h",
+      "createdAt": "2025-12-02T21:02:18.591Z",
+      "updatedAt": "2025-12-02T21:02:18.591Z"
+    },
+    {
+      "id": "cmip2dka10079c1fulajapmq6",
+      "amount": 0,
+      "date": "2025-04-21T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dk980073c1fuha1r2y7h",
+      "createdAt": "2025-12-02T21:02:18.601Z",
+      "updatedAt": "2025-12-02T21:02:18.601Z"
+    },
+    {
+      "id": "cmip2dkaa007bc1fu3jwcqbnd",
+      "amount": 0,
+      "date": "2025-05-21T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dk980073c1fuha1r2y7h",
+      "createdAt": "2025-12-02T21:02:18.611Z",
+      "updatedAt": "2025-12-02T21:02:18.611Z"
+    },
+    {
+      "id": "cmip2dkav007ec1fuakvb35t7",
+      "amount": 0,
+      "date": "2025-07-18T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dkal007cc1fu11eoc9ws",
+      "createdAt": "2025-12-02T21:02:18.631Z",
+      "updatedAt": "2025-12-02T21:02:18.631Z"
+    },
+    {
+      "id": "cmip2dkb5007gc1fukro4w6lx",
+      "amount": 0,
+      "date": "2025-08-18T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dkal007cc1fu11eoc9ws",
+      "createdAt": "2025-12-02T21:02:18.641Z",
+      "updatedAt": "2025-12-02T21:02:18.641Z"
+    },
+    {
+      "id": "cmip2dkbp007jc1fu0oajpiop",
+      "amount": 45718,
+      "date": "2025-02-01T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2dkbf007hc1fuhej9rcvq",
+      "createdAt": "2025-12-02T21:02:18.661Z",
+      "updatedAt": "2025-12-02T21:02:18.661Z"
+    },
+    {
+      "id": "cmip2dkby007lc1fuc9q96126",
+      "amount": 45964,
+      "date": "2025-03-01T03:00:00.000Z",
+      "notes": "Imported from MARZO",
+      "clientId": "cmip2dkbf007hc1fuhej9rcvq",
+      "createdAt": "2025-12-02T21:02:18.671Z",
+      "updatedAt": "2025-12-02T21:02:18.671Z"
+    },
+    {
+      "id": "cmip2dkc9007nc1fuoygwtr3m",
+      "amount": 45842,
+      "date": "2025-04-01T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dkbf007hc1fuhej9rcvq",
+      "createdAt": "2025-12-02T21:02:18.681Z",
+      "updatedAt": "2025-12-02T21:02:18.681Z"
+    },
+    {
+      "id": "cmip2dkcj007pc1fuyp27mgfe",
+      "amount": 45693,
+      "date": "2025-05-01T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dkbf007hc1fuhej9rcvq",
+      "createdAt": "2025-12-02T21:02:18.691Z",
+      "updatedAt": "2025-12-02T21:02:18.691Z"
+    },
+    {
+      "id": "cmip2dkct007rc1fuqm3e11h6",
+      "amount": 45937,
+      "date": "2025-07-01T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dkbf007hc1fuhej9rcvq",
+      "createdAt": "2025-12-02T21:02:18.701Z",
+      "updatedAt": "2025-12-02T21:02:18.701Z"
+    },
+    {
+      "id": "cmip2dkd2007tc1fud43wrhp4",
+      "amount": 45755,
+      "date": "2025-08-01T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dkbf007hc1fuhej9rcvq",
+      "createdAt": "2025-12-02T21:02:18.711Z",
+      "updatedAt": "2025-12-02T21:02:18.711Z"
+    },
+    {
+      "id": "cmip2dkdc007vc1fufyoz0mso",
+      "amount": 45786,
+      "date": "2025-09-01T03:00:00.000Z",
+      "notes": "Imported from SEPTIEMBRE",
+      "clientId": "cmip2dkbf007hc1fuhej9rcvq",
+      "createdAt": "2025-12-02T21:02:18.720Z",
+      "updatedAt": "2025-12-02T21:02:18.720Z"
+    },
+    {
+      "id": "cmip2dkdv007yc1fud4i2isyb",
+      "amount": 0,
+      "date": "2025-02-16T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2dkdm007wc1fujyifxbz3",
+      "createdAt": "2025-12-02T21:02:18.740Z",
+      "updatedAt": "2025-12-02T21:02:18.740Z"
+    },
+    {
+      "id": "cmip2dke60080c1fulovm7xkm",
+      "amount": 0,
+      "date": "2025-03-25T03:00:00.000Z",
+      "notes": "Imported from MARZO",
+      "clientId": "cmip2dkdm007wc1fujyifxbz3",
+      "createdAt": "2025-12-02T21:02:18.750Z",
+      "updatedAt": "2025-12-02T21:02:18.750Z"
+    },
+    {
+      "id": "cmip2dkeg0082c1fub48ntrcd",
+      "amount": 0,
+      "date": "2025-04-13T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dkdm007wc1fujyifxbz3",
+      "createdAt": "2025-12-02T21:02:18.761Z",
+      "updatedAt": "2025-12-02T21:02:18.761Z"
+    },
+    {
+      "id": "cmip2dkep0084c1fumdakqu81",
+      "amount": 0,
+      "date": "2025-05-13T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dkdm007wc1fujyifxbz3",
+      "createdAt": "2025-12-02T21:02:18.770Z",
+      "updatedAt": "2025-12-02T21:02:18.770Z"
+    },
+    {
+      "id": "cmip2dkfq0086c1fuan0ilzct",
+      "amount": 45876,
+      "date": "2025-07-01T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dkdm007wc1fujyifxbz3",
+      "createdAt": "2025-12-02T21:02:18.806Z",
+      "updatedAt": "2025-12-02T21:02:18.806Z"
+    },
+    {
+      "id": "cmip2dkg00088c1fu5nbdhy9j",
+      "amount": 45665,
+      "date": "2025-08-01T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dkdm007wc1fujyifxbz3",
+      "createdAt": "2025-12-02T21:02:18.816Z",
+      "updatedAt": "2025-12-02T21:02:18.816Z"
+    },
+    {
+      "id": "cmip2dkga008ac1fu1gs8cv65",
+      "amount": 45970,
+      "date": "2025-09-01T03:00:00.000Z",
+      "notes": "Imported from SEPTIEMBRE",
+      "clientId": "cmip2dkdm007wc1fujyifxbz3",
+      "createdAt": "2025-12-02T21:02:18.826Z",
+      "updatedAt": "2025-12-02T21:02:18.826Z"
+    },
+    {
+      "id": "cmip2dkgu008dc1fuwcfj35f4",
+      "amount": 45718,
+      "date": "2025-02-01T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2dkgk008bc1fub0zx3j30",
+      "createdAt": "2025-12-02T21:02:18.846Z",
+      "updatedAt": "2025-12-02T21:02:18.846Z"
+    },
+    {
+      "id": "cmip2dkh3008fc1fujdu6y69d",
+      "amount": 45719,
+      "date": "2025-03-01T03:00:00.000Z",
+      "notes": "Imported from MARZO",
+      "clientId": "cmip2dkgk008bc1fub0zx3j30",
+      "createdAt": "2025-12-02T21:02:18.855Z",
+      "updatedAt": "2025-12-02T21:02:18.855Z"
+    },
+    {
+      "id": "cmip2dkhc008hc1fue02ftqnq",
+      "amount": 45720,
+      "date": "2025-04-01T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dkgk008bc1fub0zx3j30",
+      "createdAt": "2025-12-02T21:02:18.864Z",
+      "updatedAt": "2025-12-02T21:02:18.864Z"
+    },
+    {
+      "id": "cmip2dkhl008jc1fu4opa2i9i",
+      "amount": 45782,
+      "date": "2025-05-01T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dkgk008bc1fub0zx3j30",
+      "createdAt": "2025-12-02T21:02:18.873Z",
+      "updatedAt": "2025-12-02T21:02:18.873Z"
+    },
+    {
+      "id": "cmip2dkhv008lc1fu2lk5ui56",
+      "amount": 45845,
+      "date": "2025-07-01T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dkgk008bc1fub0zx3j30",
+      "createdAt": "2025-12-02T21:02:18.883Z",
+      "updatedAt": "2025-12-02T21:02:18.883Z"
+    },
+    {
+      "id": "cmip2dki4008nc1fuyoctqv1t",
+      "amount": 45816,
+      "date": "2025-08-01T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dkgk008bc1fub0zx3j30",
+      "createdAt": "2025-12-02T21:02:18.893Z",
+      "updatedAt": "2025-12-02T21:02:18.893Z"
+    },
+    {
+      "id": "cmip2dkie008pc1fuwl6bxul6",
+      "amount": 45756,
+      "date": "2025-09-01T03:00:00.000Z",
+      "notes": "Imported from SEPTIEMBRE",
+      "clientId": "cmip2dkgk008bc1fub0zx3j30",
+      "createdAt": "2025-12-02T21:02:18.902Z",
+      "updatedAt": "2025-12-02T21:02:18.902Z"
+    },
+    {
+      "id": "cmip2dkiy008sc1fufwdy4nfe",
+      "amount": 45993,
+      "date": "2025-02-01T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2dkio008qc1fuzjb66b8m",
+      "createdAt": "2025-12-02T21:02:18.923Z",
+      "updatedAt": "2025-12-02T21:02:18.923Z"
+    },
+    {
+      "id": "cmip2dkj8008uc1fumoopvfnn",
+      "amount": 45964,
+      "date": "2025-03-01T03:00:00.000Z",
+      "notes": "Imported from MARZO",
+      "clientId": "cmip2dkio008qc1fuzjb66b8m",
+      "createdAt": "2025-12-02T21:02:18.932Z",
+      "updatedAt": "2025-12-02T21:02:18.932Z"
+    },
+    {
+      "id": "cmip2dkji008wc1fu77f3jf5d",
+      "amount": 0,
+      "date": "2025-04-14T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dkio008qc1fuzjb66b8m",
+      "createdAt": "2025-12-02T21:02:18.942Z",
+      "updatedAt": "2025-12-02T21:02:18.942Z"
+    },
+    {
+      "id": "cmip2dkjs008yc1fu34tkbggj",
+      "amount": 45996,
+      "date": "2025-05-01T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dkio008qc1fuzjb66b8m",
+      "createdAt": "2025-12-02T21:02:18.953Z",
+      "updatedAt": "2025-12-02T21:02:18.953Z"
+    },
+    {
+      "id": "cmip2dkk20090c1fu0ypj4sge",
+      "amount": 45876,
+      "date": "2025-07-01T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dkio008qc1fuzjb66b8m",
+      "createdAt": "2025-12-02T21:02:18.962Z",
+      "updatedAt": "2025-12-02T21:02:18.962Z"
+    },
+    {
+      "id": "cmip2dkkc0092c1fu2tzuppbj",
+      "amount": 45969,
+      "date": "2025-08-01T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dkio008qc1fuzjb66b8m",
+      "createdAt": "2025-12-02T21:02:18.972Z",
+      "updatedAt": "2025-12-02T21:02:18.972Z"
+    },
+    {
+      "id": "cmip2dkkr0094c1ful1cdlpf0",
+      "amount": 46000,
+      "date": "2025-09-01T03:00:00.000Z",
+      "notes": "Imported from SEPTIEMBRE",
+      "clientId": "cmip2dkio008qc1fuzjb66b8m",
+      "createdAt": "2025-12-02T21:02:18.987Z",
+      "updatedAt": "2025-12-02T21:02:18.987Z"
+    },
+    {
+      "id": "cmip2dklb0097c1fuxy9fq40g",
+      "amount": 45751,
+      "date": "2025-04-01T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dkl10095c1fuakq6ybmu",
+      "createdAt": "2025-12-02T21:02:19.007Z",
+      "updatedAt": "2025-12-02T21:02:19.007Z"
+    },
+    {
+      "id": "cmip2dkll0099c1fuwg6r9pin",
+      "amount": 45693,
+      "date": "2025-05-01T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dkl10095c1fuakq6ybmu",
+      "createdAt": "2025-12-02T21:02:19.018Z",
+      "updatedAt": "2025-12-02T21:02:19.018Z"
+    },
+    {
+      "id": "cmip2dklv009bc1fu2d7tpumc",
+      "amount": 45664,
+      "date": "2025-07-01T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dkl10095c1fuakq6ybmu",
+      "createdAt": "2025-12-02T21:02:19.027Z",
+      "updatedAt": "2025-12-02T21:02:19.027Z"
+    },
+    {
+      "id": "cmip2dkm5009dc1fu94xn6s9o",
+      "amount": 45665,
+      "date": "2025-08-01T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dkl10095c1fuakq6ybmu",
+      "createdAt": "2025-12-02T21:02:19.037Z",
+      "updatedAt": "2025-12-02T21:02:19.037Z"
+    },
+    {
+      "id": "cmip2dkmq009gc1fue905jms2",
+      "amount": 0,
+      "date": "2025-05-20T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dkmg009ec1fuqku1nepe",
+      "createdAt": "2025-12-02T21:02:19.058Z",
+      "updatedAt": "2025-12-02T21:02:19.058Z"
+    },
+    {
+      "id": "cmip2dkn8009jc1fujauji0k8",
+      "amount": 0,
+      "date": "2025-05-22T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dkmy009hc1fu5jbbaqp7",
+      "createdAt": "2025-12-02T21:02:19.076Z",
+      "updatedAt": "2025-12-02T21:02:19.076Z"
+    },
+    {
+      "id": "cmip2dknh009lc1fu69s0b244",
+      "amount": 0,
+      "date": "2025-07-22T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dkmy009hc1fu5jbbaqp7",
+      "createdAt": "2025-12-02T21:02:19.086Z",
+      "updatedAt": "2025-12-02T21:02:19.086Z"
+    },
+    {
+      "id": "cmip2dknq009nc1fuq2lzbglv",
+      "amount": 0,
+      "date": "2025-08-26T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dkmy009hc1fu5jbbaqp7",
+      "createdAt": "2025-12-02T21:02:19.095Z",
+      "updatedAt": "2025-12-02T21:02:19.095Z"
+    },
+    {
+      "id": "cmip2dkob009qc1fufky94k79",
+      "amount": 0,
+      "date": "2025-02-16T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2dko0009oc1fus7gq9run",
+      "createdAt": "2025-12-02T21:02:19.116Z",
+      "updatedAt": "2025-12-02T21:02:19.116Z"
+    },
+    {
+      "id": "cmip2dkol009sc1fufj6df48a",
+      "amount": 0,
+      "date": "2025-03-25T03:00:00.000Z",
+      "notes": "Imported from MARZO",
+      "clientId": "cmip2dko0009oc1fus7gq9run",
+      "createdAt": "2025-12-02T21:02:19.125Z",
+      "updatedAt": "2025-12-02T21:02:19.125Z"
+    },
+    {
+      "id": "cmip2dkov009uc1fuvlv9rjpz",
+      "amount": 0,
+      "date": "2025-04-13T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dko0009oc1fus7gq9run",
+      "createdAt": "2025-12-02T21:02:19.136Z",
+      "updatedAt": "2025-12-02T21:02:19.136Z"
+    },
+    {
+      "id": "cmip2dkp4009wc1fub43cjgkf",
+      "amount": 0,
+      "date": "2025-05-13T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dko0009oc1fus7gq9run",
+      "createdAt": "2025-12-02T21:02:19.145Z",
+      "updatedAt": "2025-12-02T21:02:19.145Z"
+    },
+    {
+      "id": "cmip2dkpn009zc1fubrp4f95c",
+      "amount": 45749,
+      "date": "2025-02-01T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2dkpe009xc1fuf676357s",
+      "createdAt": "2025-12-02T21:02:19.163Z",
+      "updatedAt": "2025-12-02T21:02:19.163Z"
+    },
+    {
+      "id": "cmip2dkpw00a1c1fu90tvnbgh",
+      "amount": 45811,
+      "date": "2025-03-01T03:00:00.000Z",
+      "notes": "Imported from MARZO",
+      "clientId": "cmip2dkpe009xc1fuf676357s",
+      "createdAt": "2025-12-02T21:02:19.173Z",
+      "updatedAt": "2025-12-02T21:02:19.173Z"
+    },
+    {
+      "id": "cmip2dkq500a3c1fuouu3zb88",
+      "amount": 45873,
+      "date": "2025-04-01T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dkpe009xc1fuf676357s",
+      "createdAt": "2025-12-02T21:02:19.182Z",
+      "updatedAt": "2025-12-02T21:02:19.182Z"
+    },
+    {
+      "id": "cmip2dkqf00a5c1fu5h07v8fm",
+      "amount": 45813,
+      "date": "2025-05-01T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dkpe009xc1fuf676357s",
+      "createdAt": "2025-12-02T21:02:19.191Z",
+      "updatedAt": "2025-12-02T21:02:19.191Z"
+    },
+    {
+      "id": "cmip2dkqx00a8c1fusdz9h8z7",
+      "amount": 0,
+      "date": "2025-02-16T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2dkqo00a6c1funyjnvuss",
+      "createdAt": "2025-12-02T21:02:19.210Z",
+      "updatedAt": "2025-12-02T21:02:19.210Z"
+    },
+    {
+      "id": "cmip2dkr600aac1fu06ap84ba",
+      "amount": 0,
+      "date": "2025-03-25T03:00:00.000Z",
+      "notes": "Imported from MARZO",
+      "clientId": "cmip2dkqo00a6c1funyjnvuss",
+      "createdAt": "2025-12-02T21:02:19.219Z",
+      "updatedAt": "2025-12-02T21:02:19.219Z"
+    },
+    {
+      "id": "cmip2dkrg00acc1fup9meb5ad",
+      "amount": 0,
+      "date": "2025-04-13T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dkqo00a6c1funyjnvuss",
+      "createdAt": "2025-12-02T21:02:19.228Z",
+      "updatedAt": "2025-12-02T21:02:19.228Z"
+    },
+    {
+      "id": "cmip2dkrp00aec1fu0nkimnee",
+      "amount": 0,
+      "date": "2025-05-13T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dkqo00a6c1funyjnvuss",
+      "createdAt": "2025-12-02T21:02:19.237Z",
+      "updatedAt": "2025-12-02T21:02:19.237Z"
+    },
+    {
+      "id": "cmip2dkry00agc1fu0081smom",
+      "amount": 45876,
+      "date": "2025-07-01T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dkqo00a6c1funyjnvuss",
+      "createdAt": "2025-12-02T21:02:19.247Z",
+      "updatedAt": "2025-12-02T21:02:19.247Z"
+    },
+    {
+      "id": "cmip2dks800aic1fu0ll9lobt",
+      "amount": 45665,
+      "date": "2025-08-01T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dkqo00a6c1funyjnvuss",
+      "createdAt": "2025-12-02T21:02:19.256Z",
+      "updatedAt": "2025-12-02T21:02:19.256Z"
+    },
+    {
+      "id": "cmip2dksi00akc1fuwitq4fnz",
+      "amount": 45970,
+      "date": "2025-09-01T03:00:00.000Z",
+      "notes": "Imported from SEPTIEMBRE",
+      "clientId": "cmip2dkqo00a6c1funyjnvuss",
+      "createdAt": "2025-12-02T21:02:19.266Z",
+      "updatedAt": "2025-12-02T21:02:19.266Z"
+    },
+    {
+      "id": "cmip2dku300aoc1fu8anbycw1",
+      "amount": 45779,
+      "date": "2025-02-01T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2dktt00amc1fuiw9z9lf3",
+      "createdAt": "2025-12-02T21:02:19.323Z",
+      "updatedAt": "2025-12-02T21:02:19.323Z"
+    },
+    {
+      "id": "cmip2dkub00aqc1fupqvxtogy",
+      "amount": 0,
+      "date": "2025-04-14T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dktt00amc1fuiw9z9lf3",
+      "createdAt": "2025-12-02T21:02:19.332Z",
+      "updatedAt": "2025-12-02T21:02:19.332Z"
+    },
+    {
+      "id": "cmip2dkul00asc1fu5oh3g1cn",
+      "amount": 0,
+      "date": "2025-07-21T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dktt00amc1fuiw9z9lf3",
+      "createdAt": "2025-12-02T21:02:19.342Z",
+      "updatedAt": "2025-12-02T21:02:19.342Z"
+    },
+    {
+      "id": "cmip2dkuu00auc1fua4571la7",
+      "amount": 0,
+      "date": "2025-08-21T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dktt00amc1fuiw9z9lf3",
+      "createdAt": "2025-12-02T21:02:19.350Z",
+      "updatedAt": "2025-12-02T21:02:19.350Z"
+    },
+    {
+      "id": "cmip2dkvc00axc1fuzbfwqlh4",
+      "amount": 45665,
+      "date": "2025-08-01T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dkv300avc1futw24mby1",
+      "createdAt": "2025-12-02T21:02:19.369Z",
+      "updatedAt": "2025-12-02T21:02:19.369Z"
+    },
+    {
+      "id": "cmip2dkvx00b0c1fu5g5luvvc",
+      "amount": 45785,
+      "date": "2025-08-01T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dkvn00ayc1fuw04ngp5j",
+      "createdAt": "2025-12-02T21:02:19.389Z",
+      "updatedAt": "2025-12-02T21:02:19.389Z"
+    },
+    {
+      "id": "cmip2dkw600b2c1fuaxego1dn",
+      "amount": 45756,
+      "date": "2025-09-01T03:00:00.000Z",
+      "notes": "Imported from SEPTIEMBRE",
+      "clientId": "cmip2dkvn00ayc1fuw04ngp5j",
+      "createdAt": "2025-12-02T21:02:19.398Z",
+      "updatedAt": "2025-12-02T21:02:19.398Z"
+    },
+    {
+      "id": "cmip2dkwp00b5c1funm0m6u48",
+      "amount": 0,
+      "date": "2025-05-20T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dkwf00b3c1fuqtlevyuj",
+      "createdAt": "2025-12-02T21:02:19.417Z",
+      "updatedAt": "2025-12-02T21:02:19.417Z"
+    },
+    {
+      "id": "cmip2dkx800b8c1fupdbav8l9",
+      "amount": 45840,
+      "date": "2025-02-01T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2dkwy00b6c1fusuzb6qeg",
+      "createdAt": "2025-12-02T21:02:19.436Z",
+      "updatedAt": "2025-12-02T21:02:19.436Z"
+    },
+    {
+      "id": "cmip2dkxh00bac1fuzoxuo328",
+      "amount": 45811,
+      "date": "2025-03-01T03:00:00.000Z",
+      "notes": "Imported from MARZO",
+      "clientId": "cmip2dkwy00b6c1fusuzb6qeg",
+      "createdAt": "2025-12-02T21:02:19.446Z",
+      "updatedAt": "2025-12-02T21:02:19.446Z"
+    },
+    {
+      "id": "cmip2dky000bdc1fufk18q4gg",
+      "amount": 45841,
+      "date": "2025-03-01T03:00:00.000Z",
+      "notes": "Imported from MARZO",
+      "clientId": "cmip2dkxq00bbc1fu0ujgwxp2",
+      "createdAt": "2025-12-02T21:02:19.464Z",
+      "updatedAt": "2025-12-02T21:02:19.464Z"
+    },
+    {
+      "id": "cmip2dky900bfc1funi859rcg",
+      "amount": 45720,
+      "date": "2025-04-01T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dkxq00bbc1fu0ujgwxp2",
+      "createdAt": "2025-12-02T21:02:19.474Z",
+      "updatedAt": "2025-12-02T21:02:19.474Z"
+    },
+    {
+      "id": "cmip2dkyj00bhc1fuq1alc43v",
+      "amount": 45813,
+      "date": "2025-05-01T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dkxq00bbc1fu0ujgwxp2",
+      "createdAt": "2025-12-02T21:02:19.483Z",
+      "updatedAt": "2025-12-02T21:02:19.483Z"
+    },
+    {
+      "id": "cmip2dkys00bjc1fu8062r8k5",
+      "amount": 45754,
+      "date": "2025-07-01T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dkxq00bbc1fu0ujgwxp2",
+      "createdAt": "2025-12-02T21:02:19.492Z",
+      "updatedAt": "2025-12-02T21:02:19.492Z"
+    },
+    {
+      "id": "cmip2dkz100blc1fuyfpulqr3",
+      "amount": 45755,
+      "date": "2025-08-01T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dkxq00bbc1fu0ujgwxp2",
+      "createdAt": "2025-12-02T21:02:19.502Z",
+      "updatedAt": "2025-12-02T21:02:19.502Z"
+    },
+    {
+      "id": "cmip2dkzl00boc1fupskon3kk",
+      "amount": 45755,
+      "date": "2025-08-01T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dkzb00bmc1fubw3ohagd",
+      "createdAt": "2025-12-02T21:02:19.521Z",
+      "updatedAt": "2025-12-02T21:02:19.521Z"
+    },
+    {
+      "id": "cmip2dkzu00bqc1fu05ce0id8",
+      "amount": 45878,
+      "date": "2025-09-01T03:00:00.000Z",
+      "notes": "Imported from SEPTIEMBRE",
+      "clientId": "cmip2dkzb00bmc1fubw3ohagd",
+      "createdAt": "2025-12-02T21:02:19.530Z",
+      "updatedAt": "2025-12-02T21:02:19.530Z"
+    },
+    {
+      "id": "cmip2dl0d00btc1fuethmtko9",
+      "amount": 45996,
+      "date": "2025-05-01T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dl0300brc1fux0jr6ycv",
+      "createdAt": "2025-12-02T21:02:19.549Z",
+      "updatedAt": "2025-12-02T21:02:19.549Z"
+    },
+    {
+      "id": "cmip2dl0w00bwc1fuzg9w9myf",
+      "amount": 45718,
+      "date": "2025-02-01T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2dl0m00buc1fufpqaw10a",
+      "createdAt": "2025-12-02T21:02:19.569Z",
+      "updatedAt": "2025-12-02T21:02:19.569Z"
+    },
+    {
+      "id": "cmip2dl1g00bzc1fuv6ucdgz6",
+      "amount": 45872,
+      "date": "2025-03-01T03:00:00.000Z",
+      "notes": "Imported from MARZO",
+      "clientId": "cmip2dl1600bxc1fum9bqbqui",
+      "createdAt": "2025-12-02T21:02:19.589Z",
+      "updatedAt": "2025-12-02T21:02:19.589Z"
+    },
+    {
+      "id": "cmip2dl1q00c1c1fuvo5yk0ss",
+      "amount": 45873,
+      "date": "2025-04-01T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dl1600bxc1fum9bqbqui",
+      "createdAt": "2025-12-02T21:02:19.599Z",
+      "updatedAt": "2025-12-02T21:02:19.599Z"
+    },
+    {
+      "id": "cmip2dl2000c3c1fub97zmr4h",
+      "amount": 45874,
+      "date": "2025-05-01T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dl1600bxc1fum9bqbqui",
+      "createdAt": "2025-12-02T21:02:19.608Z",
+      "updatedAt": "2025-12-02T21:02:19.608Z"
+    },
+    {
+      "id": "cmip2dl2900c5c1fu1ft81p6c",
+      "amount": 45845,
+      "date": "2025-07-01T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dl1600bxc1fum9bqbqui",
+      "createdAt": "2025-12-02T21:02:19.617Z",
+      "updatedAt": "2025-12-02T21:02:19.617Z"
+    },
+    {
+      "id": "cmip2dl2h00c7c1fu5ywuz8xk",
+      "amount": 45816,
+      "date": "2025-08-01T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dl1600bxc1fum9bqbqui",
+      "createdAt": "2025-12-02T21:02:19.626Z",
+      "updatedAt": "2025-12-02T21:02:19.626Z"
+    },
+    {
+      "id": "cmip2dl3000cac1fuxfydv54j",
+      "amount": 45780,
+      "date": "2025-02-01T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2dl2q00c8c1ful9gyk52m",
+      "createdAt": "2025-12-02T21:02:19.644Z",
+      "updatedAt": "2025-12-02T21:02:19.644Z"
+    },
+    {
+      "id": "cmip2dl3a00ccc1fu5razztp8",
+      "amount": 0,
+      "date": "2025-03-27T03:00:00.000Z",
+      "notes": "Imported from MARZO",
+      "clientId": "cmip2dl2q00c8c1ful9gyk52m",
+      "createdAt": "2025-12-02T21:02:19.654Z",
+      "updatedAt": "2025-12-02T21:02:19.654Z"
+    },
+    {
+      "id": "cmip2dl3k00cec1fu0ydtt96c",
+      "amount": 0,
+      "date": "2025-05-27T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dl2q00c8c1ful9gyk52m",
+      "createdAt": "2025-12-02T21:02:19.665Z",
+      "updatedAt": "2025-12-02T21:02:19.665Z"
+    },
+    {
+      "id": "cmip2dl3u00cgc1fulq1capwf",
+      "amount": 0,
+      "date": "2025-07-29T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dl2q00c8c1ful9gyk52m",
+      "createdAt": "2025-12-02T21:02:19.675Z",
+      "updatedAt": "2025-12-02T21:02:19.675Z"
+    },
+    {
+      "id": "cmip2dl4300cic1fuuvk9rg6o",
+      "amount": 0,
+      "date": "2025-08-28T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dl2q00c8c1ful9gyk52m",
+      "createdAt": "2025-12-02T21:02:19.684Z",
+      "updatedAt": "2025-12-02T21:02:19.684Z"
+    },
+    {
+      "id": "cmip2dl4n00clc1fuenjf5dz2",
+      "amount": 0,
+      "date": "2025-02-19T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2dl4e00cjc1fuel730oou",
+      "createdAt": "2025-12-02T21:02:19.703Z",
+      "updatedAt": "2025-12-02T21:02:19.703Z"
+    },
+    {
+      "id": "cmip2dl4w00cnc1fupopl4o72",
+      "amount": 0,
+      "date": "2025-04-23T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dl4e00cjc1fuel730oou",
+      "createdAt": "2025-12-02T21:02:19.713Z",
+      "updatedAt": "2025-12-02T21:02:19.713Z"
+    },
+    {
+      "id": "cmip2dl5f00cqc1fu5rg6kg70",
+      "amount": 0,
+      "date": "2025-04-14T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dl5600coc1fub9461t7v",
+      "createdAt": "2025-12-02T21:02:19.731Z",
+      "updatedAt": "2025-12-02T21:02:19.731Z"
+    },
+    {
+      "id": "cmip2dl5p00csc1fu8bt7v6cw",
+      "amount": 45996,
+      "date": "2025-05-01T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dl5600coc1fub9461t7v",
+      "createdAt": "2025-12-02T21:02:19.741Z",
+      "updatedAt": "2025-12-02T21:02:19.741Z"
+    },
+    {
+      "id": "cmip2dl6700cvc1fusxkq39yz",
+      "amount": 0,
+      "date": "2025-08-18T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dl5y00ctc1fux8c6p0cz",
+      "createdAt": "2025-12-02T21:02:19.760Z",
+      "updatedAt": "2025-12-02T21:02:19.760Z"
+    },
+    {
+      "id": "cmip2dl6g00cxc1fugmv0clur",
+      "amount": 45756,
+      "date": "2025-09-01T03:00:00.000Z",
+      "notes": "Imported from SEPTIEMBRE",
+      "clientId": "cmip2dl5y00ctc1fux8c6p0cz",
+      "createdAt": "2025-12-02T21:02:19.769Z",
+      "updatedAt": "2025-12-02T21:02:19.769Z"
+    },
+    {
+      "id": "cmip2dl8300d0c1fupraoqxqd",
+      "amount": 45909,
+      "date": "2025-09-01T03:00:00.000Z",
+      "notes": "Imported from SEPTIEMBRE",
+      "clientId": "cmip2dl7t00cyc1fu26mlt1zz",
+      "createdAt": "2025-12-02T21:02:19.828Z",
+      "updatedAt": "2025-12-02T21:02:19.828Z"
+    },
+    {
+      "id": "cmip2dl8l00d3c1fuig6qxg5t",
+      "amount": 45718,
+      "date": "2025-02-01T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2dl8d00d1c1furnr1i86y",
+      "createdAt": "2025-12-02T21:02:19.846Z",
+      "updatedAt": "2025-12-02T21:02:19.846Z"
+    },
+    {
+      "id": "cmip2dl8v00d5c1fu6tcm8ecr",
+      "amount": 45780,
+      "date": "2025-03-01T03:00:00.000Z",
+      "notes": "Imported from MARZO",
+      "clientId": "cmip2dl8d00d1c1furnr1i86y",
+      "createdAt": "2025-12-02T21:02:19.855Z",
+      "updatedAt": "2025-12-02T21:02:19.855Z"
+    },
+    {
+      "id": "cmip2dl9400d7c1fuqmtnysad",
+      "amount": 45842,
+      "date": "2025-04-01T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dl8d00d1c1furnr1i86y",
+      "createdAt": "2025-12-02T21:02:19.864Z",
+      "updatedAt": "2025-12-02T21:02:19.864Z"
+    },
+    {
+      "id": "cmip2dl9d00d9c1fujimkrs4e",
+      "amount": 45782,
+      "date": "2025-05-01T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dl8d00d1c1furnr1i86y",
+      "createdAt": "2025-12-02T21:02:19.873Z",
+      "updatedAt": "2025-12-02T21:02:19.873Z"
+    },
+    {
+      "id": "cmip2dl9m00dbc1fublr2abp5",
+      "amount": 45754,
+      "date": "2025-07-01T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dl8d00d1c1furnr1i86y",
+      "createdAt": "2025-12-02T21:02:19.883Z",
+      "updatedAt": "2025-12-02T21:02:19.883Z"
+    },
+    {
+      "id": "cmip2dl9v00ddc1fu8c95684c",
+      "amount": 45816,
+      "date": "2025-08-01T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dl8d00d1c1furnr1i86y",
+      "createdAt": "2025-12-02T21:02:19.892Z",
+      "updatedAt": "2025-12-02T21:02:19.892Z"
+    },
+    {
+      "id": "cmip2dla400dfc1futvm2vfst",
+      "amount": 45786,
+      "date": "2025-09-01T03:00:00.000Z",
+      "notes": "Imported from SEPTIEMBRE",
+      "clientId": "cmip2dl8d00d1c1furnr1i86y",
+      "createdAt": "2025-12-02T21:02:19.901Z",
+      "updatedAt": "2025-12-02T21:02:19.901Z"
+    },
+    {
+      "id": "cmip2dlam00dic1fuu5ooki7x",
+      "amount": 45810,
+      "date": "2025-02-01T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2dlad00dgc1fuxygfz3xm",
+      "createdAt": "2025-12-02T21:02:19.919Z",
+      "updatedAt": "2025-12-02T21:02:19.919Z"
+    },
+    {
+      "id": "cmip2dlav00dkc1fuwfobbyip",
+      "amount": 45811,
+      "date": "2025-03-01T03:00:00.000Z",
+      "notes": "Imported from MARZO",
+      "clientId": "cmip2dlad00dgc1fuxygfz3xm",
+      "createdAt": "2025-12-02T21:02:19.928Z",
+      "updatedAt": "2025-12-02T21:02:19.928Z"
+    },
+    {
+      "id": "cmip2dlb400dmc1fugc44zr1d",
+      "amount": 45873,
+      "date": "2025-04-01T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dlad00dgc1fuxygfz3xm",
+      "createdAt": "2025-12-02T21:02:19.937Z",
+      "updatedAt": "2025-12-02T21:02:19.937Z"
+    },
+    {
+      "id": "cmip2dlbc00doc1fucxxtsivt",
+      "amount": 45874,
+      "date": "2025-05-01T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dlad00dgc1fuxygfz3xm",
+      "createdAt": "2025-12-02T21:02:19.945Z",
+      "updatedAt": "2025-12-02T21:02:19.945Z"
+    },
+    {
+      "id": "cmip2dlbm00dqc1fux7cno4wn",
+      "amount": 45723,
+      "date": "2025-07-01T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dlad00dgc1fuxygfz3xm",
+      "createdAt": "2025-12-02T21:02:19.954Z",
+      "updatedAt": "2025-12-02T21:02:19.954Z"
+    },
+    {
+      "id": "cmip2dlbv00dsc1fu2uaeorpp",
+      "amount": 45846,
+      "date": "2025-08-01T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dlad00dgc1fuxygfz3xm",
+      "createdAt": "2025-12-02T21:02:19.963Z",
+      "updatedAt": "2025-12-02T21:02:19.963Z"
+    },
+    {
+      "id": "cmip2dlc400duc1funr0otd66",
+      "amount": 45786,
+      "date": "2025-09-01T03:00:00.000Z",
+      "notes": "Imported from SEPTIEMBRE",
+      "clientId": "cmip2dlad00dgc1fuxygfz3xm",
+      "createdAt": "2025-12-02T21:02:19.973Z",
+      "updatedAt": "2025-12-02T21:02:19.973Z"
+    },
+    {
+      "id": "cmip2dlcn00dxc1fu20ttxxic",
+      "amount": 45933,
+      "date": "2025-03-01T03:00:00.000Z",
+      "notes": "Imported from MARZO",
+      "clientId": "cmip2dlce00dvc1fu41jwiowz",
+      "createdAt": "2025-12-02T21:02:19.991Z",
+      "updatedAt": "2025-12-02T21:02:19.991Z"
+    },
+    {
+      "id": "cmip2dlcv00dzc1fuyt2682ao",
+      "amount": 0,
+      "date": "2025-04-15T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dlce00dvc1fu41jwiowz",
+      "createdAt": "2025-12-02T21:02:20.000Z",
+      "updatedAt": "2025-12-02T21:02:20.000Z"
+    },
+    {
+      "id": "cmip2dld500e1c1furviz0o1e",
+      "amount": 0,
+      "date": "2025-05-27T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dlce00dvc1fu41jwiowz",
+      "createdAt": "2025-12-02T21:02:20.009Z",
+      "updatedAt": "2025-12-02T21:02:20.009Z"
+    },
+    {
+      "id": "cmip2dlde00e3c1fuh3h14350",
+      "amount": 0,
+      "date": "2025-07-14T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dlce00dvc1fu41jwiowz",
+      "createdAt": "2025-12-02T21:02:20.018Z",
+      "updatedAt": "2025-12-02T21:02:20.018Z"
+    },
+    {
+      "id": "cmip2dldo00e5c1fu9rco7cri",
+      "amount": 45969,
+      "date": "2025-08-01T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dlce00dvc1fu41jwiowz",
+      "createdAt": "2025-12-02T21:02:20.028Z",
+      "updatedAt": "2025-12-02T21:02:20.028Z"
+    },
+    {
+      "id": "cmip2dldy00e7c1fuzjxqre0w",
+      "amount": 45970,
+      "date": "2025-09-01T03:00:00.000Z",
+      "notes": "Imported from SEPTIEMBRE",
+      "clientId": "cmip2dlce00dvc1fu41jwiowz",
+      "createdAt": "2025-12-02T21:02:20.039Z",
+      "updatedAt": "2025-12-02T21:02:20.039Z"
+    },
+    {
+      "id": "cmip2dlei00eac1fuy14wmhh3",
+      "amount": 45874,
+      "date": "2025-05-01T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dle800e8c1ful53ng9vx",
+      "createdAt": "2025-12-02T21:02:20.058Z",
+      "updatedAt": "2025-12-02T21:02:20.058Z"
+    },
+    {
+      "id": "cmip2dler00ecc1fuzpp4sb2t",
+      "amount": 45968,
+      "date": "2025-07-01T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dle800e8c1ful53ng9vx",
+      "createdAt": "2025-12-02T21:02:20.067Z",
+      "updatedAt": "2025-12-02T21:02:20.067Z"
+    },
+    {
+      "id": "cmip2dlf100eec1fu2cr5084g",
+      "amount": 45939,
+      "date": "2025-09-01T03:00:00.000Z",
+      "notes": "Imported from SEPTIEMBRE",
+      "clientId": "cmip2dle800e8c1ful53ng9vx",
+      "createdAt": "2025-12-02T21:02:20.077Z",
+      "updatedAt": "2025-12-02T21:02:20.077Z"
+    },
+    {
+      "id": "cmip2dlfk00ehc1fu3710oxn7",
+      "amount": 45810,
+      "date": "2025-02-01T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2dlfb00efc1fuzy48ik8v",
+      "createdAt": "2025-12-02T21:02:20.097Z",
+      "updatedAt": "2025-12-02T21:02:20.097Z"
+    },
+    {
+      "id": "cmip2dlfu00ejc1fui0pmxu8m",
+      "amount": 45874,
+      "date": "2025-05-01T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dlfb00efc1fuzy48ik8v",
+      "createdAt": "2025-12-02T21:02:20.106Z",
+      "updatedAt": "2025-12-02T21:02:20.106Z"
+    },
+    {
+      "id": "cmip2dlg400elc1fux9l14was",
+      "amount": 45937,
+      "date": "2025-07-01T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dlfb00efc1fuzy48ik8v",
+      "createdAt": "2025-12-02T21:02:20.117Z",
+      "updatedAt": "2025-12-02T21:02:20.117Z"
+    },
+    {
+      "id": "cmip2dlgf00enc1fug3wcnkd6",
+      "amount": 0,
+      "date": "2025-08-14T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dlfb00efc1fuzy48ik8v",
+      "createdAt": "2025-12-02T21:02:20.127Z",
+      "updatedAt": "2025-12-02T21:02:20.127Z"
+    },
+    {
+      "id": "cmip2dlgo00epc1fuo6jpk8j4",
+      "amount": 45970,
+      "date": "2025-09-01T03:00:00.000Z",
+      "notes": "Imported from SEPTIEMBRE",
+      "clientId": "cmip2dlfb00efc1fuzy48ik8v",
+      "createdAt": "2025-12-02T21:02:20.137Z",
+      "updatedAt": "2025-12-02T21:02:20.137Z"
+    },
+    {
+      "id": "cmip2dlh800esc1fua6l4x4sj",
+      "amount": 45964,
+      "date": "2025-03-01T03:00:00.000Z",
+      "notes": "Imported from MARZO",
+      "clientId": "cmip2dlgy00eqc1fu9ltbhfwx",
+      "createdAt": "2025-12-02T21:02:20.156Z",
+      "updatedAt": "2025-12-02T21:02:20.156Z"
+    },
+    {
+      "id": "cmip2dlhh00euc1fuoy9z4qj4",
+      "amount": 45934,
+      "date": "2025-04-01T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dlgy00eqc1fu9ltbhfwx",
+      "createdAt": "2025-12-02T21:02:20.166Z",
+      "updatedAt": "2025-12-02T21:02:20.166Z"
+    },
+    {
+      "id": "cmip2dli000exc1fukl5yrgbv",
+      "amount": 45749,
+      "date": "2025-02-01T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2dlhq00evc1fu4tmt4ooe",
+      "createdAt": "2025-12-02T21:02:20.185Z",
+      "updatedAt": "2025-12-02T21:02:20.185Z"
+    },
+    {
+      "id": "cmip2dlia00ezc1fuknzy948g",
+      "amount": 45904,
+      "date": "2025-04-01T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dlhq00evc1fu4tmt4ooe",
+      "createdAt": "2025-12-02T21:02:20.194Z",
+      "updatedAt": "2025-12-02T21:02:20.194Z"
+    },
+    {
+      "id": "cmip2dlik00f1c1fuvu95fp3h",
+      "amount": 45843,
+      "date": "2025-05-01T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dlhq00evc1fu4tmt4ooe",
+      "createdAt": "2025-12-02T21:02:20.204Z",
+      "updatedAt": "2025-12-02T21:02:20.204Z"
+    },
+    {
+      "id": "cmip2dliu00f3c1fu9s1pyp0k",
+      "amount": 45695,
+      "date": "2025-07-01T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dlhq00evc1fu4tmt4ooe",
+      "createdAt": "2025-12-02T21:02:20.214Z",
+      "updatedAt": "2025-12-02T21:02:20.214Z"
+    },
+    {
+      "id": "cmip2dlj300f5c1fub6y121ar",
+      "amount": 45785,
+      "date": "2025-08-01T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dlhq00evc1fu4tmt4ooe",
+      "createdAt": "2025-12-02T21:02:20.224Z",
+      "updatedAt": "2025-12-02T21:02:20.224Z"
+    },
+    {
+      "id": "cmip2dljf00f7c1fuml38kk11",
+      "amount": 45878,
+      "date": "2025-09-01T03:00:00.000Z",
+      "notes": "Imported from SEPTIEMBRE",
+      "clientId": "cmip2dlhq00evc1fu4tmt4ooe",
+      "createdAt": "2025-12-02T21:02:20.235Z",
+      "updatedAt": "2025-12-02T21:02:20.235Z"
+    },
+    {
+      "id": "cmip2dljz00fac1fuqvb786v6",
+      "amount": 0,
+      "date": "2025-02-27T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2dljq00f8c1fuz482xatn",
+      "createdAt": "2025-12-02T21:02:20.255Z",
+      "updatedAt": "2025-12-02T21:02:20.255Z"
+    },
+    {
+      "id": "cmip2dlk800fcc1fuicrwj1ad",
+      "amount": 45996,
+      "date": "2025-05-01T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dljq00f8c1fuz482xatn",
+      "createdAt": "2025-12-02T21:02:20.264Z",
+      "updatedAt": "2025-12-02T21:02:20.264Z"
+    },
+    {
+      "id": "cmip2dlkr00ffc1fuvq4gnx2c",
+      "amount": 45811,
+      "date": "2025-03-01T03:00:00.000Z",
+      "notes": "Imported from MARZO",
+      "clientId": "cmip2dlki00fdc1fuvo15chnw",
+      "createdAt": "2025-12-02T21:02:20.284Z",
+      "updatedAt": "2025-12-02T21:02:20.284Z"
+    },
+    {
+      "id": "cmip2dll100fhc1futjf3sn89",
+      "amount": 45720,
+      "date": "2025-04-01T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dlki00fdc1fuvo15chnw",
+      "createdAt": "2025-12-02T21:02:20.293Z",
+      "updatedAt": "2025-12-02T21:02:20.293Z"
+    },
+    {
+      "id": "cmip2dlla00fjc1fudx8tv1nn",
+      "amount": 45782,
+      "date": "2025-05-01T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dlki00fdc1fuvo15chnw",
+      "createdAt": "2025-12-02T21:02:20.302Z",
+      "updatedAt": "2025-12-02T21:02:20.302Z"
+    },
+    {
+      "id": "cmip2dllj00flc1fu1adj4ohv",
+      "amount": 45664,
+      "date": "2025-07-01T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dlki00fdc1fuvo15chnw",
+      "createdAt": "2025-12-02T21:02:20.312Z",
+      "updatedAt": "2025-12-02T21:02:20.312Z"
+    },
+    {
+      "id": "cmip2dlm700foc1fuuvxu36vb",
+      "amount": 45664,
+      "date": "2025-07-01T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dllv00fmc1fucmbngjzu",
+      "createdAt": "2025-12-02T21:02:20.336Z",
+      "updatedAt": "2025-12-02T21:02:20.336Z"
+    },
+    {
+      "id": "cmip2dlnj00ftc1fu7adusdde",
+      "amount": 0,
+      "date": "2025-03-27T03:00:00.000Z",
+      "notes": "Imported from MARZO",
+      "clientId": "cmip2dln800frc1fu6f5a7nsz",
+      "createdAt": "2025-12-02T21:02:20.383Z",
+      "updatedAt": "2025-12-02T21:02:20.383Z"
+    },
+    {
+      "id": "cmip2dlns00fvc1fulhvnbj72",
+      "amount": 0,
+      "date": "2025-04-29T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dln800frc1fu6f5a7nsz",
+      "createdAt": "2025-12-02T21:02:20.393Z",
+      "updatedAt": "2025-12-02T21:02:20.393Z"
+    },
+    {
+      "id": "cmip2dlo200fxc1fu7bitanq4",
+      "amount": 0,
+      "date": "2025-05-28T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dln800frc1fu6f5a7nsz",
+      "createdAt": "2025-12-02T21:02:20.403Z",
+      "updatedAt": "2025-12-02T21:02:20.403Z"
+    },
+    {
+      "id": "cmip2dloc00fzc1fupstjq8tb",
+      "amount": 0,
+      "date": "2025-07-28T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dln800frc1fu6f5a7nsz",
+      "createdAt": "2025-12-02T21:02:20.412Z",
+      "updatedAt": "2025-12-02T21:02:20.412Z"
+    },
+    {
+      "id": "cmip2dlom00g1c1fukpue342s",
+      "amount": 0,
+      "date": "2025-08-28T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dln800frc1fu6f5a7nsz",
+      "createdAt": "2025-12-02T21:02:20.422Z",
+      "updatedAt": "2025-12-02T21:02:20.422Z"
+    },
+    {
+      "id": "cmip2dlp500g4c1fuv0vq4zuu",
+      "amount": 0,
+      "date": "2025-02-17T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2dlow00g2c1fux9lpmq4k",
+      "createdAt": "2025-12-02T21:02:20.441Z",
+      "updatedAt": "2025-12-02T21:02:20.441Z"
+    },
+    {
+      "id": "cmip2dlpe00g6c1fucy30sefv",
+      "amount": 45964,
+      "date": "2025-03-01T03:00:00.000Z",
+      "notes": "Imported from MARZO",
+      "clientId": "cmip2dlow00g2c1fux9lpmq4k",
+      "createdAt": "2025-12-02T21:02:20.451Z",
+      "updatedAt": "2025-12-02T21:02:20.451Z"
+    },
+    {
+      "id": "cmip2dlpp00g8c1fueea51p26",
+      "amount": 45842,
+      "date": "2025-04-01T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dlow00g2c1fux9lpmq4k",
+      "createdAt": "2025-12-02T21:02:20.461Z",
+      "updatedAt": "2025-12-02T21:02:20.461Z"
+    },
+    {
+      "id": "cmip2dlpz00gac1fuq08evuyj",
+      "amount": 45996,
+      "date": "2025-05-01T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dlow00g2c1fux9lpmq4k",
+      "createdAt": "2025-12-02T21:02:20.471Z",
+      "updatedAt": "2025-12-02T21:02:20.471Z"
+    },
+    {
+      "id": "cmip2dlq800gcc1fusnikc25i",
+      "amount": 45723,
+      "date": "2025-07-01T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dlow00g2c1fux9lpmq4k",
+      "createdAt": "2025-12-02T21:02:20.480Z",
+      "updatedAt": "2025-12-02T21:02:20.480Z"
+    },
+    {
+      "id": "cmip2dlqh00gec1fu9c0r7x0x",
+      "amount": 45846,
+      "date": "2025-08-01T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dlow00g2c1fux9lpmq4k",
+      "createdAt": "2025-12-02T21:02:20.490Z",
+      "updatedAt": "2025-12-02T21:02:20.490Z"
+    },
+    {
+      "id": "cmip2dlqr00ggc1fup3qqc4mn",
+      "amount": 0,
+      "date": "2025-09-15T03:00:00.000Z",
+      "notes": "Imported from SEPTIEMBRE",
+      "clientId": "cmip2dlow00g2c1fux9lpmq4k",
+      "createdAt": "2025-12-02T21:02:20.499Z",
+      "updatedAt": "2025-12-02T21:02:20.499Z"
+    },
+    {
+      "id": "cmip2dlr900gjc1fuyjnbl9cj",
+      "amount": 0,
+      "date": "2025-02-19T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2dlr000ghc1fu1r59txnn",
+      "createdAt": "2025-12-02T21:02:20.518Z",
+      "updatedAt": "2025-12-02T21:02:20.518Z"
+    },
+    {
+      "id": "cmip2dlrs00gmc1fu9du3nucn",
+      "amount": 0,
+      "date": "2025-04-14T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dlri00gkc1fuhbk01m74",
+      "createdAt": "2025-12-02T21:02:20.537Z",
+      "updatedAt": "2025-12-02T21:02:20.537Z"
+    },
+    {
+      "id": "cmip2dlsb00gpc1fui2mw9wk0",
+      "amount": 45845,
+      "date": "2025-07-01T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dls100gnc1fu4wj60er7",
+      "createdAt": "2025-12-02T21:02:20.555Z",
+      "updatedAt": "2025-12-02T21:02:20.555Z"
+    },
+    {
+      "id": "cmip2dlsk00grc1fu06tk8rf9",
+      "amount": 45877,
+      "date": "2025-08-01T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dls100gnc1fu4wj60er7",
+      "createdAt": "2025-12-02T21:02:20.564Z",
+      "updatedAt": "2025-12-02T21:02:20.564Z"
+    },
+    {
+      "id": "cmip2dlst00gtc1fuwpdk4hst",
+      "amount": 45939,
+      "date": "2025-09-01T03:00:00.000Z",
+      "notes": "Imported from SEPTIEMBRE",
+      "clientId": "cmip2dls100gnc1fu4wj60er7",
+      "createdAt": "2025-12-02T21:02:20.574Z",
+      "updatedAt": "2025-12-02T21:02:20.574Z"
+    },
+    {
+      "id": "cmip2dltc00gwc1fuq37qe6kb",
+      "amount": 45695,
+      "date": "2025-07-01T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dlt300guc1fui234x4ox",
+      "createdAt": "2025-12-02T21:02:20.593Z",
+      "updatedAt": "2025-12-02T21:02:20.593Z"
+    },
+    {
+      "id": "cmip2dltl00gyc1fuasulw102",
+      "amount": 45877,
+      "date": "2025-08-01T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dlt300guc1fui234x4ox",
+      "createdAt": "2025-12-02T21:02:20.602Z",
+      "updatedAt": "2025-12-02T21:02:20.602Z"
+    },
+    {
+      "id": "cmip2dltv00h0c1fucc10xof8",
+      "amount": 45725,
+      "date": "2025-09-01T03:00:00.000Z",
+      "notes": "Imported from SEPTIEMBRE",
+      "clientId": "cmip2dlt300guc1fui234x4ox",
+      "createdAt": "2025-12-02T21:02:20.612Z",
+      "updatedAt": "2025-12-02T21:02:20.612Z"
+    },
+    {
+      "id": "cmip2dluo00h4c1fuxnxas3fx",
+      "amount": 45749,
+      "date": "2025-02-01T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2dlue00h2c1fu1sbllzqh",
+      "createdAt": "2025-12-02T21:02:20.640Z",
+      "updatedAt": "2025-12-02T21:02:20.640Z"
+    },
+    {
+      "id": "cmip2dluy00h6c1fu42plqx06",
+      "amount": 45964,
+      "date": "2025-03-01T03:00:00.000Z",
+      "notes": "Imported from MARZO",
+      "clientId": "cmip2dlue00h2c1fu1sbllzqh",
+      "createdAt": "2025-12-02T21:02:20.650Z",
+      "updatedAt": "2025-12-02T21:02:20.650Z"
+    },
+    {
+      "id": "cmip2dlv700h8c1fu2v6srdd5",
+      "amount": 45813,
+      "date": "2025-05-01T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dlue00h2c1fu1sbllzqh",
+      "createdAt": "2025-12-02T21:02:20.660Z",
+      "updatedAt": "2025-12-02T21:02:20.660Z"
+    },
+    {
+      "id": "cmip2dlvg00hac1fuaj3729yc",
+      "amount": 45968,
+      "date": "2025-07-01T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dlue00h2c1fu1sbllzqh",
+      "createdAt": "2025-12-02T21:02:20.669Z",
+      "updatedAt": "2025-12-02T21:02:20.669Z"
+    },
+    {
+      "id": "cmip2dlvq00hcc1fugtkletv2",
+      "amount": 45909,
+      "date": "2025-09-01T03:00:00.000Z",
+      "notes": "Imported from SEPTIEMBRE",
+      "clientId": "cmip2dlue00h2c1fu1sbllzqh",
+      "createdAt": "2025-12-02T21:02:20.678Z",
+      "updatedAt": "2025-12-02T21:02:20.678Z"
+    },
+    {
+      "id": "cmip2dlw800hfc1fur8x3a09b",
+      "amount": 0,
+      "date": "2025-07-14T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dlw000hdc1fu71mggmlq",
+      "createdAt": "2025-12-02T21:02:20.696Z",
+      "updatedAt": "2025-12-02T21:02:20.696Z"
+    },
+    {
+      "id": "cmip2dlwi00hhc1fu3zt8po4f",
+      "amount": 0,
+      "date": "2025-08-15T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dlw000hdc1fu71mggmlq",
+      "createdAt": "2025-12-02T21:02:20.706Z",
+      "updatedAt": "2025-12-02T21:02:20.706Z"
+    },
+    {
+      "id": "cmip2dlx000hkc1fuc2bx9n49",
+      "amount": 45720,
+      "date": "2025-04-01T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dlwr00hic1fuaiet52w0",
+      "createdAt": "2025-12-02T21:02:20.724Z",
+      "updatedAt": "2025-12-02T21:02:20.724Z"
+    },
+    {
+      "id": "cmip2dlxa00hmc1fus03fu1u0",
+      "amount": 45721,
+      "date": "2025-05-01T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dlwr00hic1fuaiet52w0",
+      "createdAt": "2025-12-02T21:02:20.734Z",
+      "updatedAt": "2025-12-02T21:02:20.734Z"
+    },
+    {
+      "id": "cmip2dlxj00hoc1fud13xggho",
+      "amount": 45754,
+      "date": "2025-07-01T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dlwr00hic1fuaiet52w0",
+      "createdAt": "2025-12-02T21:02:20.744Z",
+      "updatedAt": "2025-12-02T21:02:20.744Z"
+    },
+    {
+      "id": "cmip2dlxs00hqc1fu9nj8de5c",
+      "amount": 45755,
+      "date": "2025-08-01T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dlwr00hic1fuaiet52w0",
+      "createdAt": "2025-12-02T21:02:20.753Z",
+      "updatedAt": "2025-12-02T21:02:20.753Z"
+    },
+    {
+      "id": "cmip2dly100hsc1fus0no8qwf",
+      "amount": 45666,
+      "date": "2025-09-01T03:00:00.000Z",
+      "notes": "Imported from SEPTIEMBRE",
+      "clientId": "cmip2dlwr00hic1fuaiet52w0",
+      "createdAt": "2025-12-02T21:02:20.762Z",
+      "updatedAt": "2025-12-02T21:02:20.762Z"
+    },
+    {
+      "id": "cmip2dlym00hvc1fuzmr605qo",
+      "amount": 0,
+      "date": "2025-02-23T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2dlyb00htc1fuouidw030",
+      "createdAt": "2025-12-02T21:02:20.782Z",
+      "updatedAt": "2025-12-02T21:02:20.782Z"
+    },
+    {
+      "id": "cmip2dlyv00hxc1fu1h0zz2h9",
+      "amount": 0,
+      "date": "2025-03-25T03:00:00.000Z",
+      "notes": "Imported from MARZO",
+      "clientId": "cmip2dlyb00htc1fuouidw030",
+      "createdAt": "2025-12-02T21:02:20.791Z",
+      "updatedAt": "2025-12-02T21:02:20.791Z"
+    },
+    {
+      "id": "cmip2dlz400hzc1fuym4coe2i",
+      "amount": 0,
+      "date": "2025-04-23T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dlyb00htc1fuouidw030",
+      "createdAt": "2025-12-02T21:02:20.801Z",
+      "updatedAt": "2025-12-02T21:02:20.801Z"
+    },
+    {
+      "id": "cmip2dlze00i1c1fuoapocsg6",
+      "amount": 0,
+      "date": "2025-05-23T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dlyb00htc1fuouidw030",
+      "createdAt": "2025-12-02T21:02:20.810Z",
+      "updatedAt": "2025-12-02T21:02:20.810Z"
+    },
+    {
+      "id": "cmip2dlzo00i3c1fusmdosvrk",
+      "amount": 0,
+      "date": "2025-07-23T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dlyb00htc1fuouidw030",
+      "createdAt": "2025-12-02T21:02:20.820Z",
+      "updatedAt": "2025-12-02T21:02:20.820Z"
+    },
+    {
+      "id": "cmip2dlzx00i5c1fuj4rtsnkz",
+      "amount": 0,
+      "date": "2025-08-22T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dlyb00htc1fuouidw030",
+      "createdAt": "2025-12-02T21:02:20.829Z",
+      "updatedAt": "2025-12-02T21:02:20.829Z"
+    },
+    {
+      "id": "cmip2dm0f00i8c1fufz6r08c4",
+      "amount": 0,
+      "date": "2025-05-19T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dm0600i6c1fu53hscnp5",
+      "createdAt": "2025-12-02T21:02:20.847Z",
+      "updatedAt": "2025-12-02T21:02:20.847Z"
+    },
+    {
+      "id": "cmip2dm0z00ibc1fu1nx87k6j",
+      "amount": 45718,
+      "date": "2025-02-01T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2dm0q00i9c1furfyacm4r",
+      "createdAt": "2025-12-02T21:02:20.868Z",
+      "updatedAt": "2025-12-02T21:02:20.868Z"
+    },
+    {
+      "id": "cmip2dm1800idc1fubm3qtfut",
+      "amount": 45719,
+      "date": "2025-03-01T03:00:00.000Z",
+      "notes": "Imported from MARZO",
+      "clientId": "cmip2dm0q00i9c1furfyacm4r",
+      "createdAt": "2025-12-02T21:02:20.877Z",
+      "updatedAt": "2025-12-02T21:02:20.877Z"
+    },
+    {
+      "id": "cmip2dm1i00ifc1fu3rnltrfy",
+      "amount": 45934,
+      "date": "2025-04-01T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dm0q00i9c1furfyacm4r",
+      "createdAt": "2025-12-02T21:02:20.886Z",
+      "updatedAt": "2025-12-02T21:02:20.886Z"
+    },
+    {
+      "id": "cmip2dm1r00ihc1fuq7ly198g",
+      "amount": 0,
+      "date": "2025-05-16T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dm0q00i9c1furfyacm4r",
+      "createdAt": "2025-12-02T21:02:20.895Z",
+      "updatedAt": "2025-12-02T21:02:20.895Z"
+    },
+    {
+      "id": "cmip2dm2000ijc1fu0d5dty9c",
+      "amount": 45876,
+      "date": "2025-07-01T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dm0q00i9c1furfyacm4r",
+      "createdAt": "2025-12-02T21:02:20.904Z",
+      "updatedAt": "2025-12-02T21:02:20.904Z"
+    },
+    {
+      "id": "cmip2dm2900ilc1fu1n2unclz",
+      "amount": 45909,
+      "date": "2025-09-01T03:00:00.000Z",
+      "notes": "Imported from SEPTIEMBRE",
+      "clientId": "cmip2dm0q00i9c1furfyacm4r",
+      "createdAt": "2025-12-02T21:02:20.914Z",
+      "updatedAt": "2025-12-02T21:02:20.914Z"
+    },
+    {
+      "id": "cmip2dm3100ipc1fuohkj26en",
+      "amount": 45810,
+      "date": "2025-02-01T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2dm2r00inc1fu61l959c9",
+      "createdAt": "2025-12-02T21:02:20.942Z",
+      "updatedAt": "2025-12-02T21:02:20.942Z"
+    },
+    {
+      "id": "cmip2dm3b00irc1fu7kgmbe4z",
+      "amount": 45842,
+      "date": "2025-04-01T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dm2r00inc1fu61l959c9",
+      "createdAt": "2025-12-02T21:02:20.951Z",
+      "updatedAt": "2025-12-02T21:02:20.951Z"
+    },
+    {
+      "id": "cmip2dm3k00itc1fu9oma1c0d",
+      "amount": 45813,
+      "date": "2025-05-01T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dm2r00inc1fu61l959c9",
+      "createdAt": "2025-12-02T21:02:20.961Z",
+      "updatedAt": "2025-12-02T21:02:20.961Z"
+    },
+    {
+      "id": "cmip2dm3t00ivc1fu515ppc7k",
+      "amount": 45876,
+      "date": "2025-07-01T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dm2r00inc1fu61l959c9",
+      "createdAt": "2025-12-02T21:02:20.970Z",
+      "updatedAt": "2025-12-02T21:02:20.970Z"
+    },
+    {
+      "id": "cmip2dm4300ixc1fu74vj5ze7",
+      "amount": 45755,
+      "date": "2025-08-01T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dm2r00inc1fu61l959c9",
+      "createdAt": "2025-12-02T21:02:20.979Z",
+      "updatedAt": "2025-12-02T21:02:20.979Z"
+    },
+    {
+      "id": "cmip2dm4b00izc1fuk0mt03g8",
+      "amount": 45878,
+      "date": "2025-09-01T03:00:00.000Z",
+      "notes": "Imported from SEPTIEMBRE",
+      "clientId": "cmip2dm2r00inc1fu61l959c9",
+      "createdAt": "2025-12-02T21:02:20.988Z",
+      "updatedAt": "2025-12-02T21:02:20.988Z"
+    },
+    {
+      "id": "cmip2dm5600j3c1fukfylffdw",
+      "amount": 0,
+      "date": "2025-05-19T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dm4w00j1c1funzs68e6p",
+      "createdAt": "2025-12-02T21:02:21.018Z",
+      "updatedAt": "2025-12-02T21:02:21.018Z"
+    },
+    {
+      "id": "cmip2dm5r00j6c1fu5jvbp1ka",
+      "amount": 0,
+      "date": "2025-03-26T03:00:00.000Z",
+      "notes": "Imported from MARZO",
+      "clientId": "cmip2dm5h00j4c1fue7kgnxxt",
+      "createdAt": "2025-12-02T21:02:21.040Z",
+      "updatedAt": "2025-12-02T21:02:21.040Z"
+    },
+    {
+      "id": "cmip2dm6300j8c1fucp7msqfh",
+      "amount": 0,
+      "date": "2025-04-26T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dm5h00j4c1fue7kgnxxt",
+      "createdAt": "2025-12-02T21:02:21.051Z",
+      "updatedAt": "2025-12-02T21:02:21.051Z"
+    },
+    {
+      "id": "cmip2dm6c00jac1fuh9sqngi2",
+      "amount": 0,
+      "date": "2025-05-16T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dm5h00j4c1fue7kgnxxt",
+      "createdAt": "2025-12-02T21:02:21.061Z",
+      "updatedAt": "2025-12-02T21:02:21.061Z"
+    },
+    {
+      "id": "cmip2dm6w00jdc1fu9qazkhfj",
+      "amount": 0,
+      "date": "2025-07-30T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dm6n00jbc1ful9ufq3xh",
+      "createdAt": "2025-12-02T21:02:21.081Z",
+      "updatedAt": "2025-12-02T21:02:21.081Z"
+    },
+    {
+      "id": "cmip2dm7i00jgc1fuuvjs4ud5",
+      "amount": 45697,
+      "date": "2025-09-01T03:00:00.000Z",
+      "notes": "Imported from SEPTIEMBRE",
+      "clientId": "cmip2dm7900jec1fuyc8rbmmm",
+      "createdAt": "2025-12-02T21:02:21.103Z",
+      "updatedAt": "2025-12-02T21:02:21.103Z"
+    },
+    {
+      "id": "cmip2dm8000jjc1fuunhvcc1e",
+      "amount": 45811,
+      "date": "2025-03-01T03:00:00.000Z",
+      "notes": "Imported from MARZO",
+      "clientId": "cmip2dm7r00jhc1fu9k6cbggg",
+      "createdAt": "2025-12-02T21:02:21.121Z",
+      "updatedAt": "2025-12-02T21:02:21.121Z"
+    },
+    {
+      "id": "cmip2dm8a00jlc1fuhsn528tu",
+      "amount": 45876,
+      "date": "2025-07-01T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dm7r00jhc1fu9k6cbggg",
+      "createdAt": "2025-12-02T21:02:21.130Z",
+      "updatedAt": "2025-12-02T21:02:21.130Z"
+    },
+    {
+      "id": "cmip2dm8j00jnc1fu2es1ptbl",
+      "amount": 45999,
+      "date": "2025-08-01T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dm7r00jhc1fu9k6cbggg",
+      "createdAt": "2025-12-02T21:02:21.139Z",
+      "updatedAt": "2025-12-02T21:02:21.139Z"
+    },
+    {
+      "id": "cmip2dm8s00jpc1fulf94c99c",
+      "amount": 45970,
+      "date": "2025-09-01T03:00:00.000Z",
+      "notes": "Imported from SEPTIEMBRE",
+      "clientId": "cmip2dm7r00jhc1fu9k6cbggg",
+      "createdAt": "2025-12-02T21:02:21.149Z",
+      "updatedAt": "2025-12-02T21:02:21.149Z"
+    },
+    {
+      "id": "cmip2dm9c00jsc1fugwa2crvs",
+      "amount": 0,
+      "date": "2025-08-26T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dm9200jqc1fu3rqpl09i",
+      "createdAt": "2025-12-02T21:02:21.168Z",
+      "updatedAt": "2025-12-02T21:02:21.168Z"
+    },
+    {
+      "id": "cmip2dm9t00jvc1fu730ilv1f",
+      "amount": 0,
+      "date": "2025-07-30T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dm9k00jtc1fu8rnj58da",
+      "createdAt": "2025-12-02T21:02:21.186Z",
+      "updatedAt": "2025-12-02T21:02:21.186Z"
+    },
+    {
+      "id": "cmip2dma200jxc1fu651w69ol",
+      "amount": 0,
+      "date": "2025-08-26T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dm9k00jtc1fu8rnj58da",
+      "createdAt": "2025-12-02T21:02:21.194Z",
+      "updatedAt": "2025-12-02T21:02:21.194Z"
+    },
+    {
+      "id": "cmip2dmak00k0c1furvuwpzxq",
+      "amount": 45932,
+      "date": "2025-02-01T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2dmab00jyc1fuodrvzprx",
+      "createdAt": "2025-12-02T21:02:21.213Z",
+      "updatedAt": "2025-12-02T21:02:21.213Z"
+    },
+    {
+      "id": "cmip2dmb200k3c1fuzxn10iz2",
+      "amount": 0,
+      "date": "2025-04-30T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dmau00k1c1fu8h0dy0wu",
+      "createdAt": "2025-12-02T21:02:21.231Z",
+      "updatedAt": "2025-12-02T21:02:21.231Z"
+    },
+    {
+      "id": "cmip2dmbc00k5c1fu1u5qto0z",
+      "amount": 0,
+      "date": "2025-05-30T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dmau00k1c1fu8h0dy0wu",
+      "createdAt": "2025-12-02T21:02:21.240Z",
+      "updatedAt": "2025-12-02T21:02:21.240Z"
+    },
+    {
+      "id": "cmip2dmbl00k7c1fug6qdzehd",
+      "amount": 45754,
+      "date": "2025-07-01T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dmau00k1c1fu8h0dy0wu",
+      "createdAt": "2025-12-02T21:02:21.249Z",
+      "updatedAt": "2025-12-02T21:02:21.249Z"
+    },
+    {
+      "id": "cmip2dmbv00k9c1fu0nsgmwpy",
+      "amount": 45755,
+      "date": "2025-08-01T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dmau00k1c1fu8h0dy0wu",
+      "createdAt": "2025-12-02T21:02:21.259Z",
+      "updatedAt": "2025-12-02T21:02:21.259Z"
+    },
+    {
+      "id": "cmip2dmc300kbc1fuus6ncaav",
+      "amount": 45697,
+      "date": "2025-09-01T03:00:00.000Z",
+      "notes": "Imported from SEPTIEMBRE",
+      "clientId": "cmip2dmau00k1c1fu8h0dy0wu",
+      "createdAt": "2025-12-02T21:02:21.268Z",
+      "updatedAt": "2025-12-02T21:02:21.268Z"
+    },
+    {
+      "id": "cmip2dmcm00kec1futqxxclfx",
+      "amount": 45934,
+      "date": "2025-04-01T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dmce00kcc1fu1j33cxhk",
+      "createdAt": "2025-12-02T21:02:21.287Z",
+      "updatedAt": "2025-12-02T21:02:21.287Z"
+    },
+    {
+      "id": "cmip2dmdm00kgc1fuo7vdra2n",
+      "amount": 45752,
+      "date": "2025-05-01T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dmce00kcc1fu1j33cxhk",
+      "createdAt": "2025-12-02T21:02:21.322Z",
+      "updatedAt": "2025-12-02T21:02:21.322Z"
+    },
+    {
+      "id": "cmip2dme500kjc1fu24myvmhz",
+      "amount": 45780,
+      "date": "2025-03-01T03:00:00.000Z",
+      "notes": "Imported from MARZO",
+      "clientId": "cmip2dmdv00khc1fumogsfpfj",
+      "createdAt": "2025-12-02T21:02:21.341Z",
+      "updatedAt": "2025-12-02T21:02:21.341Z"
+    },
+    {
+      "id": "cmip2dmee00klc1fu6ystbghu",
+      "amount": 45661,
+      "date": "2025-04-01T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dmdv00khc1fumogsfpfj",
+      "createdAt": "2025-12-02T21:02:21.350Z",
+      "updatedAt": "2025-12-02T21:02:21.350Z"
+    },
+    {
+      "id": "cmip2dmeo00knc1fuo9q2i0n2",
+      "amount": 45813,
+      "date": "2025-05-01T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dmdv00khc1fumogsfpfj",
+      "createdAt": "2025-12-02T21:02:21.361Z",
+      "updatedAt": "2025-12-02T21:02:21.361Z"
+    },
+    {
+      "id": "cmip2dmex00kpc1fud3xwcycq",
+      "amount": 45754,
+      "date": "2025-07-01T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dmdv00khc1fumogsfpfj",
+      "createdAt": "2025-12-02T21:02:21.370Z",
+      "updatedAt": "2025-12-02T21:02:21.370Z"
+    },
+    {
+      "id": "cmip2dmf700krc1func1xrmny",
+      "amount": 45665,
+      "date": "2025-08-01T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dmdv00khc1fumogsfpfj",
+      "createdAt": "2025-12-02T21:02:21.379Z",
+      "updatedAt": "2025-12-02T21:02:21.379Z"
+    },
+    {
+      "id": "cmip2dmfh00ktc1fuxysz3wug",
+      "amount": 45786,
+      "date": "2025-09-01T03:00:00.000Z",
+      "notes": "Imported from SEPTIEMBRE",
+      "clientId": "cmip2dmdv00khc1fumogsfpfj",
+      "createdAt": "2025-12-02T21:02:21.389Z",
+      "updatedAt": "2025-12-02T21:02:21.389Z"
+    },
+    {
+      "id": "cmip2dmg000kwc1fuc3mfp4dv",
+      "amount": 0,
+      "date": "2025-02-21T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2dmfq00kuc1fuk7jvmehn",
+      "createdAt": "2025-12-02T21:02:21.408Z",
+      "updatedAt": "2025-12-02T21:02:21.408Z"
+    },
+    {
+      "id": "cmip2dmg900kyc1fufl9aaefr",
+      "amount": 0,
+      "date": "2025-03-20T03:00:00.000Z",
+      "notes": "Imported from MARZO",
+      "clientId": "cmip2dmfq00kuc1fuk7jvmehn",
+      "createdAt": "2025-12-02T21:02:21.417Z",
+      "updatedAt": "2025-12-02T21:02:21.417Z"
+    },
+    {
+      "id": "cmip2dmgi00l0c1fufo59tmbn",
+      "amount": 0,
+      "date": "2025-04-21T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dmfq00kuc1fuk7jvmehn",
+      "createdAt": "2025-12-02T21:02:21.427Z",
+      "updatedAt": "2025-12-02T21:02:21.427Z"
+    },
+    {
+      "id": "cmip2dmgs00l2c1fuo6jvu70s",
+      "amount": 45968,
+      "date": "2025-07-01T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dmfq00kuc1fuk7jvmehn",
+      "createdAt": "2025-12-02T21:02:21.437Z",
+      "updatedAt": "2025-12-02T21:02:21.437Z"
+    },
+    {
+      "id": "cmip2dmh300l4c1fu28tg2hmr",
+      "amount": 45999,
+      "date": "2025-08-01T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dmfq00kuc1fuk7jvmehn",
+      "createdAt": "2025-12-02T21:02:21.447Z",
+      "updatedAt": "2025-12-02T21:02:21.447Z"
+    },
+    {
+      "id": "cmip2dmhc00l6c1fu3h19j5dr",
+      "amount": 45909,
+      "date": "2025-09-01T03:00:00.000Z",
+      "notes": "Imported from SEPTIEMBRE",
+      "clientId": "cmip2dmfq00kuc1fuk7jvmehn",
+      "createdAt": "2025-12-02T21:02:21.456Z",
+      "updatedAt": "2025-12-02T21:02:21.456Z"
+    },
+    {
+      "id": "cmip2dmhu00l9c1fully49n4n",
+      "amount": 45659,
+      "date": "2025-02-01T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2dmhl00l7c1futhayswym",
+      "createdAt": "2025-12-02T21:02:21.475Z",
+      "updatedAt": "2025-12-02T21:02:21.475Z"
+    },
+    {
+      "id": "cmip2dmi400lbc1fuo2kefjdu",
+      "amount": 45811,
+      "date": "2025-03-01T03:00:00.000Z",
+      "notes": "Imported from MARZO",
+      "clientId": "cmip2dmhl00l7c1futhayswym",
+      "createdAt": "2025-12-02T21:02:21.485Z",
+      "updatedAt": "2025-12-02T21:02:21.485Z"
+    },
+    {
+      "id": "cmip2dmie00ldc1fuvatf1ajz",
+      "amount": 45751,
+      "date": "2025-04-01T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dmhl00l7c1futhayswym",
+      "createdAt": "2025-12-02T21:02:21.495Z",
+      "updatedAt": "2025-12-02T21:02:21.495Z"
+    },
+    {
+      "id": "cmip2dmio00lfc1fud9c2knjh",
+      "amount": 45813,
+      "date": "2025-05-01T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dmhl00l7c1futhayswym",
+      "createdAt": "2025-12-02T21:02:21.504Z",
+      "updatedAt": "2025-12-02T21:02:21.504Z"
+    },
+    {
+      "id": "cmip2dmix00lhc1ful0t78b7r",
+      "amount": 45968,
+      "date": "2025-07-01T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dmhl00l7c1futhayswym",
+      "createdAt": "2025-12-02T21:02:21.514Z",
+      "updatedAt": "2025-12-02T21:02:21.514Z"
+    },
+    {
+      "id": "cmip2dmj700ljc1fuhpntdoc7",
+      "amount": 45816,
+      "date": "2025-08-01T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dmhl00l7c1futhayswym",
+      "createdAt": "2025-12-02T21:02:21.523Z",
+      "updatedAt": "2025-12-02T21:02:21.523Z"
+    },
+    {
+      "id": "cmip2dmjg00llc1fumpmjyswu",
+      "amount": 45909,
+      "date": "2025-09-01T03:00:00.000Z",
+      "notes": "Imported from SEPTIEMBRE",
+      "clientId": "cmip2dmhl00l7c1futhayswym",
+      "createdAt": "2025-12-02T21:02:21.533Z",
+      "updatedAt": "2025-12-02T21:02:21.533Z"
+    },
+    {
+      "id": "cmip2dmjy00loc1fu1aw5qrr3",
+      "amount": 45813,
+      "date": "2025-05-01T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dmjq00lmc1fu6p2ilxyg",
+      "createdAt": "2025-12-02T21:02:21.551Z",
+      "updatedAt": "2025-12-02T21:02:21.551Z"
+    },
+    {
+      "id": "cmip2dmki00lrc1fu8lquwezx",
+      "amount": 45661,
+      "date": "2025-04-01T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dmk800lpc1fu96lnch6l",
+      "createdAt": "2025-12-02T21:02:21.570Z",
+      "updatedAt": "2025-12-02T21:02:21.570Z"
+    },
+    {
+      "id": "cmip2dmks00ltc1fuunpg15sm",
+      "amount": 45874,
+      "date": "2025-05-01T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dmk800lpc1fu96lnch6l",
+      "createdAt": "2025-12-02T21:02:21.580Z",
+      "updatedAt": "2025-12-02T21:02:21.580Z"
+    },
+    {
+      "id": "cmip2dml200lvc1fuvagv3c6i",
+      "amount": 45664,
+      "date": "2025-07-01T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dmk800lpc1fu96lnch6l",
+      "createdAt": "2025-12-02T21:02:21.591Z",
+      "updatedAt": "2025-12-02T21:02:21.591Z"
+    },
+    {
+      "id": "cmip2dmlb00lxc1fuvhls657c",
+      "amount": 45846,
+      "date": "2025-08-01T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dmk800lpc1fu96lnch6l",
+      "createdAt": "2025-12-02T21:02:21.600Z",
+      "updatedAt": "2025-12-02T21:02:21.600Z"
+    },
+    {
+      "id": "cmip2dmll00lzc1fuhpnc260w",
+      "amount": 45756,
+      "date": "2025-09-01T03:00:00.000Z",
+      "notes": "Imported from SEPTIEMBRE",
+      "clientId": "cmip2dmk800lpc1fu96lnch6l",
+      "createdAt": "2025-12-02T21:02:21.609Z",
+      "updatedAt": "2025-12-02T21:02:21.609Z"
+    },
+    {
+      "id": "cmip2dmm300m2c1futglap7x5",
+      "amount": 45932,
+      "date": "2025-02-01T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2dmlu00m0c1fue8cftr86",
+      "createdAt": "2025-12-02T21:02:21.628Z",
+      "updatedAt": "2025-12-02T21:02:21.628Z"
+    },
+    {
+      "id": "cmip2dmmn00m5c1fuu9zwg9t6",
+      "amount": 45810,
+      "date": "2025-02-01T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2dmmc00m3c1fuiiub8ksr",
+      "createdAt": "2025-12-02T21:02:21.647Z",
+      "updatedAt": "2025-12-02T21:02:21.647Z"
+    },
+    {
+      "id": "cmip2dmmx00m7c1fuds3dtuu8",
+      "amount": 45811,
+      "date": "2025-03-01T03:00:00.000Z",
+      "notes": "Imported from MARZO",
+      "clientId": "cmip2dmmc00m3c1fuiiub8ksr",
+      "createdAt": "2025-12-02T21:02:21.657Z",
+      "updatedAt": "2025-12-02T21:02:21.657Z"
+    },
+    {
+      "id": "cmip2dmn700m9c1fudsdk7olr",
+      "amount": 45842,
+      "date": "2025-04-01T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dmmc00m3c1fuiiub8ksr",
+      "createdAt": "2025-12-02T21:02:21.667Z",
+      "updatedAt": "2025-12-02T21:02:21.667Z"
+    },
+    {
+      "id": "cmip2dmni00mbc1fudp2d63p5",
+      "amount": 45813,
+      "date": "2025-05-01T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dmmc00m3c1fuiiub8ksr",
+      "createdAt": "2025-12-02T21:02:21.678Z",
+      "updatedAt": "2025-12-02T21:02:21.678Z"
+    },
+    {
+      "id": "cmip2dmnr00mdc1fur94w9jyb",
+      "amount": 45876,
+      "date": "2025-07-01T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dmmc00m3c1fuiiub8ksr",
+      "createdAt": "2025-12-02T21:02:21.688Z",
+      "updatedAt": "2025-12-02T21:02:21.688Z"
+    },
+    {
+      "id": "cmip2dmo000mfc1fubp11qad4",
+      "amount": 45755,
+      "date": "2025-08-01T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dmmc00m3c1fuiiub8ksr",
+      "createdAt": "2025-12-02T21:02:21.696Z",
+      "updatedAt": "2025-12-02T21:02:21.696Z"
+    },
+    {
+      "id": "cmip2dmoa00mhc1fus49rrmx2",
+      "amount": 45878,
+      "date": "2025-09-01T03:00:00.000Z",
+      "notes": "Imported from SEPTIEMBRE",
+      "clientId": "cmip2dmmc00m3c1fuiiub8ksr",
+      "createdAt": "2025-12-02T21:02:21.706Z",
+      "updatedAt": "2025-12-02T21:02:21.706Z"
+    },
+    {
+      "id": "cmip2dmot00mkc1fu1tvrjcja",
+      "amount": 45932,
+      "date": "2025-02-01T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2dmoj00mic1fuecqy7c03",
+      "createdAt": "2025-12-02T21:02:21.725Z",
+      "updatedAt": "2025-12-02T21:02:21.725Z"
+    },
+    {
+      "id": "cmip2dmp200mmc1fu242522i9",
+      "amount": 45933,
+      "date": "2025-03-01T03:00:00.000Z",
+      "notes": "Imported from MARZO",
+      "clientId": "cmip2dmoj00mic1fuecqy7c03",
+      "createdAt": "2025-12-02T21:02:21.734Z",
+      "updatedAt": "2025-12-02T21:02:21.734Z"
+    },
+    {
+      "id": "cmip2dmpb00moc1fu0rks2noi",
+      "amount": 45842,
+      "date": "2025-04-01T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dmoj00mic1fuecqy7c03",
+      "createdAt": "2025-12-02T21:02:21.743Z",
+      "updatedAt": "2025-12-02T21:02:21.743Z"
+    },
+    {
+      "id": "cmip2dmpk00mqc1fuw05nvr2v",
+      "amount": 45935,
+      "date": "2025-05-01T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dmoj00mic1fuecqy7c03",
+      "createdAt": "2025-12-02T21:02:21.752Z",
+      "updatedAt": "2025-12-02T21:02:21.752Z"
+    },
+    {
+      "id": "cmip2dmpt00msc1fu1lni6nv2",
+      "amount": 45845,
+      "date": "2025-07-01T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dmoj00mic1fuecqy7c03",
+      "createdAt": "2025-12-02T21:02:21.761Z",
+      "updatedAt": "2025-12-02T21:02:21.761Z"
+    },
+    {
+      "id": "cmip2dmq200muc1fuwr1mwotd",
+      "amount": 45846,
+      "date": "2025-08-01T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dmoj00mic1fuecqy7c03",
+      "createdAt": "2025-12-02T21:02:21.771Z",
+      "updatedAt": "2025-12-02T21:02:21.771Z"
+    },
+    {
+      "id": "cmip2dmqc00mwc1fu8460myqt",
+      "amount": 45666,
+      "date": "2025-09-01T03:00:00.000Z",
+      "notes": "Imported from SEPTIEMBRE",
+      "clientId": "cmip2dmoj00mic1fuecqy7c03",
+      "createdAt": "2025-12-02T21:02:21.781Z",
+      "updatedAt": "2025-12-02T21:02:21.781Z"
+    },
+    {
+      "id": "cmip2dmro00mzc1fucfkh47z2",
+      "amount": 0,
+      "date": "2025-02-22T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2dmre00mxc1fuaxiwx9md",
+      "createdAt": "2025-12-02T21:02:21.829Z",
+      "updatedAt": "2025-12-02T21:02:21.829Z"
+    },
+    {
+      "id": "cmip2dmrz00n1c1funsmka1qv",
+      "amount": 0,
+      "date": "2025-03-25T03:00:00.000Z",
+      "notes": "Imported from MARZO",
+      "clientId": "cmip2dmre00mxc1fuaxiwx9md",
+      "createdAt": "2025-12-02T21:02:21.840Z",
+      "updatedAt": "2025-12-02T21:02:21.840Z"
+    },
+    {
+      "id": "cmip2dms900n3c1fui0y6vvfo",
+      "amount": 0,
+      "date": "2025-04-22T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dmre00mxc1fuaxiwx9md",
+      "createdAt": "2025-12-02T21:02:21.849Z",
+      "updatedAt": "2025-12-02T21:02:21.849Z"
+    },
+    {
+      "id": "cmip2dmsi00n5c1fu5d3wpoxw",
+      "amount": 0,
+      "date": "2025-05-23T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dmre00mxc1fuaxiwx9md",
+      "createdAt": "2025-12-02T21:02:21.858Z",
+      "updatedAt": "2025-12-02T21:02:21.858Z"
+    },
+    {
+      "id": "cmip2dmsr00n7c1fusrmyxhfp",
+      "amount": 0,
+      "date": "2025-07-25T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dmre00mxc1fuaxiwx9md",
+      "createdAt": "2025-12-02T21:02:21.867Z",
+      "updatedAt": "2025-12-02T21:02:21.867Z"
+    },
+    {
+      "id": "cmip2dmt200n9c1fu4wczeshh",
+      "amount": 0,
+      "date": "2025-08-22T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dmre00mxc1fuaxiwx9md",
+      "createdAt": "2025-12-02T21:02:21.878Z",
+      "updatedAt": "2025-12-02T21:02:21.878Z"
+    },
+    {
+      "id": "cmip2dmtl00ncc1fuhun6qfcr",
+      "amount": 45932,
+      "date": "2025-02-01T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2dmtc00nac1fubhs382o7",
+      "createdAt": "2025-12-02T21:02:21.898Z",
+      "updatedAt": "2025-12-02T21:02:21.898Z"
+    },
+    {
+      "id": "cmip2dmtu00nec1fu1oop8inh",
+      "amount": 45811,
+      "date": "2025-03-01T03:00:00.000Z",
+      "notes": "Imported from MARZO",
+      "clientId": "cmip2dmtc00nac1fubhs382o7",
+      "createdAt": "2025-12-02T21:02:21.907Z",
+      "updatedAt": "2025-12-02T21:02:21.907Z"
+    },
+    {
+      "id": "cmip2dmu400ngc1fuzrsq96v1",
+      "amount": 45812,
+      "date": "2025-04-01T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dmtc00nac1fubhs382o7",
+      "createdAt": "2025-12-02T21:02:21.916Z",
+      "updatedAt": "2025-12-02T21:02:21.916Z"
+    },
+    {
+      "id": "cmip2dmud00nic1futaddwb2m",
+      "amount": 45813,
+      "date": "2025-05-01T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dmtc00nac1fubhs382o7",
+      "createdAt": "2025-12-02T21:02:21.926Z",
+      "updatedAt": "2025-12-02T21:02:21.926Z"
+    },
+    {
+      "id": "cmip2dmum00nkc1fucr40xanz",
+      "amount": 45845,
+      "date": "2025-07-01T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dmtc00nac1fubhs382o7",
+      "createdAt": "2025-12-02T21:02:21.935Z",
+      "updatedAt": "2025-12-02T21:02:21.935Z"
+    },
+    {
+      "id": "cmip2dmuv00nmc1funhw7smyl",
+      "amount": 45816,
+      "date": "2025-08-01T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dmtc00nac1fubhs382o7",
+      "createdAt": "2025-12-02T21:02:21.944Z",
+      "updatedAt": "2025-12-02T21:02:21.944Z"
+    },
+    {
+      "id": "cmip2dmv400noc1fuiqtmctw9",
+      "amount": 45878,
+      "date": "2025-09-01T03:00:00.000Z",
+      "notes": "Imported from SEPTIEMBRE",
+      "clientId": "cmip2dmtc00nac1fubhs382o7",
+      "createdAt": "2025-12-02T21:02:21.953Z",
+      "updatedAt": "2025-12-02T21:02:21.953Z"
+    },
+    {
+      "id": "cmip2dmvo00nrc1fu2g7yor0x",
+      "amount": 0,
+      "date": "2025-04-16T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dmve00npc1fuyftbo1s1",
+      "createdAt": "2025-12-02T21:02:21.972Z",
+      "updatedAt": "2025-12-02T21:02:21.972Z"
+    },
+    {
+      "id": "cmip2dmvx00ntc1fu3khfyfc4",
+      "amount": 0,
+      "date": "2025-05-14T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dmve00npc1fuyftbo1s1",
+      "createdAt": "2025-12-02T21:02:21.982Z",
+      "updatedAt": "2025-12-02T21:02:21.982Z"
+    },
+    {
+      "id": "cmip2dmw600nvc1fu304rc5j5",
+      "amount": 0,
+      "date": "2025-07-25T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dmve00npc1fuyftbo1s1",
+      "createdAt": "2025-12-02T21:02:21.991Z",
+      "updatedAt": "2025-12-02T21:02:21.991Z"
+    },
+    {
+      "id": "cmip2dmwg00nxc1fu7jrukm3l",
+      "amount": 0,
+      "date": "2025-08-25T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dmve00npc1fuyftbo1s1",
+      "createdAt": "2025-12-02T21:02:22.000Z",
+      "updatedAt": "2025-12-02T21:02:22.000Z"
+    },
+    {
+      "id": "cmip2dmwz00o0c1fuke3qg9c8",
+      "amount": 0,
+      "date": "2025-03-18T03:00:00.000Z",
+      "notes": "Imported from MARZO",
+      "clientId": "cmip2dmwq00nyc1fualtil1j9",
+      "createdAt": "2025-12-02T21:02:22.020Z",
+      "updatedAt": "2025-12-02T21:02:22.020Z"
+    },
+    {
+      "id": "cmip2dmx800o2c1fuzyae5dfh",
+      "amount": 0,
+      "date": "2025-04-21T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dmwq00nyc1fualtil1j9",
+      "createdAt": "2025-12-02T21:02:22.029Z",
+      "updatedAt": "2025-12-02T21:02:22.029Z"
+    },
+    {
+      "id": "cmip2dmxs00o5c1fu3zf5298q",
+      "amount": 45695,
+      "date": "2025-07-01T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dmxj00o3c1fubtqwncyn",
+      "createdAt": "2025-12-02T21:02:22.049Z",
+      "updatedAt": "2025-12-02T21:02:22.049Z"
+    },
+    {
+      "id": "cmip2dmy200o7c1furx8xyg0r",
+      "amount": 45665,
+      "date": "2025-08-01T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dmxj00o3c1fubtqwncyn",
+      "createdAt": "2025-12-02T21:02:22.058Z",
+      "updatedAt": "2025-12-02T21:02:22.058Z"
+    },
+    {
+      "id": "cmip2dmyb00o9c1fucdyjcfwx",
+      "amount": 45666,
+      "date": "2025-09-01T03:00:00.000Z",
+      "notes": "Imported from SEPTIEMBRE",
+      "clientId": "cmip2dmxj00o3c1fubtqwncyn",
+      "createdAt": "2025-12-02T21:02:22.067Z",
+      "updatedAt": "2025-12-02T21:02:22.067Z"
+    },
+    {
+      "id": "cmip2dn1200occ1fufm2q0afb",
+      "amount": 0,
+      "date": "2025-02-13T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2dmyk00oac1fudj8ifthj",
+      "createdAt": "2025-12-02T21:02:22.166Z",
+      "updatedAt": "2025-12-02T21:02:22.166Z"
+    },
+    {
+      "id": "cmip2dn1f00oec1furmhzh0sd",
+      "amount": 0,
+      "date": "2025-03-27T03:00:00.000Z",
+      "notes": "Imported from MARZO",
+      "clientId": "cmip2dmyk00oac1fudj8ifthj",
+      "createdAt": "2025-12-02T21:02:22.179Z",
+      "updatedAt": "2025-12-02T21:02:22.179Z"
+    },
+    {
+      "id": "cmip2dn1o00ogc1fuic45o7cs",
+      "amount": 0,
+      "date": "2025-04-21T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dmyk00oac1fudj8ifthj",
+      "createdAt": "2025-12-02T21:02:22.188Z",
+      "updatedAt": "2025-12-02T21:02:22.188Z"
+    },
+    {
+      "id": "cmip2dn1x00oic1fu6uroydbe",
+      "amount": 0,
+      "date": "2025-05-22T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dmyk00oac1fudj8ifthj",
+      "createdAt": "2025-12-02T21:02:22.198Z",
+      "updatedAt": "2025-12-02T21:02:22.198Z"
+    },
+    {
+      "id": "cmip2dn2800okc1fu5bxihuvf",
+      "amount": 0,
+      "date": "2025-07-22T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dmyk00oac1fudj8ifthj",
+      "createdAt": "2025-12-02T21:02:22.208Z",
+      "updatedAt": "2025-12-02T21:02:22.208Z"
+    },
+    {
+      "id": "cmip2dn2h00omc1fu8f73u2mw",
+      "amount": 0,
+      "date": "2025-08-21T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dmyk00oac1fudj8ifthj",
+      "createdAt": "2025-12-02T21:02:22.217Z",
+      "updatedAt": "2025-12-02T21:02:22.217Z"
+    },
+    {
+      "id": "cmip2dn3i00orc1fut94rrqam",
+      "amount": 45810,
+      "date": "2025-02-01T03:00:00.000Z",
+      "notes": "Imported from FEBRERO",
+      "clientId": "cmip2dn3900opc1fudeh40yns",
+      "createdAt": "2025-12-02T21:02:22.254Z",
+      "updatedAt": "2025-12-02T21:02:22.254Z"
+    },
+    {
+      "id": "cmip2dn3r00otc1fuq8j4bmeg",
+      "amount": 45811,
+      "date": "2025-03-01T03:00:00.000Z",
+      "notes": "Imported from MARZO",
+      "clientId": "cmip2dn3900opc1fudeh40yns",
+      "createdAt": "2025-12-02T21:02:22.264Z",
+      "updatedAt": "2025-12-02T21:02:22.264Z"
+    },
+    {
+      "id": "cmip2dn4100ovc1fu7lal30o2",
+      "amount": 45661,
+      "date": "2025-04-01T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dn3900opc1fudeh40yns",
+      "createdAt": "2025-12-02T21:02:22.274Z",
+      "updatedAt": "2025-12-02T21:02:22.274Z"
+    },
+    {
+      "id": "cmip2dn4a00oxc1fuo4d56kt0",
+      "amount": 45782,
+      "date": "2025-05-01T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dn3900opc1fudeh40yns",
+      "createdAt": "2025-12-02T21:02:22.283Z",
+      "updatedAt": "2025-12-02T21:02:22.283Z"
+    },
+    {
+      "id": "cmip2dn4k00ozc1fu94j19e5g",
+      "amount": 45845,
+      "date": "2025-07-01T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dn3900opc1fudeh40yns",
+      "createdAt": "2025-12-02T21:02:22.292Z",
+      "updatedAt": "2025-12-02T21:02:22.292Z"
+    },
+    {
+      "id": "cmip2dn4t00p1c1fuf4g1mtnx",
+      "amount": 45999,
+      "date": "2025-08-01T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dn3900opc1fudeh40yns",
+      "createdAt": "2025-12-02T21:02:22.301Z",
+      "updatedAt": "2025-12-02T21:02:22.301Z"
+    },
+    {
+      "id": "cmip2dn5200p3c1fuw7vg1ae0",
+      "amount": 45909,
+      "date": "2025-09-01T03:00:00.000Z",
+      "notes": "Imported from SEPTIEMBRE",
+      "clientId": "cmip2dn3900opc1fudeh40yns",
+      "createdAt": "2025-12-02T21:02:22.310Z",
+      "updatedAt": "2025-12-02T21:02:22.310Z"
+    },
+    {
+      "id": "cmip2dn5y00p7c1fu9dct5o89",
+      "amount": 45751,
+      "date": "2025-04-01T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dn5n00p5c1fuw7a2xkws",
+      "createdAt": "2025-12-02T21:02:22.342Z",
+      "updatedAt": "2025-12-02T21:02:22.342Z"
+    },
+    {
+      "id": "cmip2dn6800p9c1fut3lvlmov",
+      "amount": 45782,
+      "date": "2025-05-01T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dn5n00p5c1fuw7a2xkws",
+      "createdAt": "2025-12-02T21:02:22.352Z",
+      "updatedAt": "2025-12-02T21:02:22.352Z"
+    },
+    {
+      "id": "cmip2dn6j00pbc1fudqqzbrtx",
+      "amount": 22944.22,
+      "date": "2025-07-01T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dn5n00p5c1fuw7a2xkws",
+      "createdAt": "2025-12-02T21:02:22.363Z",
+      "updatedAt": "2025-12-02T21:02:22.363Z"
+    },
+    {
+      "id": "cmip2dn6t00pdc1furkkzziue",
+      "amount": 45695,
+      "date": "2025-08-01T03:00:00.000Z",
+      "notes": "Imported from AGOSTO",
+      "clientId": "cmip2dn5n00p5c1fuw7a2xkws",
+      "createdAt": "2025-12-02T21:02:22.373Z",
+      "updatedAt": "2025-12-02T21:02:22.373Z"
+    },
+    {
+      "id": "cmip2dn7200pfc1fu9sj5dagp",
+      "amount": 45725,
+      "date": "2025-10-01T03:00:00.000Z",
+      "notes": "Imported from OCTUBRE",
+      "clientId": "cmip2dn5n00p5c1fuw7a2xkws",
+      "createdAt": "2025-12-02T21:02:22.382Z",
+      "updatedAt": "2025-12-02T21:02:22.382Z"
+    },
+    {
+      "id": "cmip2dn7n00pic1fu377npf8w",
+      "amount": 45660,
+      "date": "2025-03-01T03:00:00.000Z",
+      "notes": "Imported from MARZO",
+      "clientId": "cmip2dn7d00pgc1fu9eefwt9i",
+      "createdAt": "2025-12-02T21:02:22.403Z",
+      "updatedAt": "2025-12-02T21:02:22.403Z"
+    },
+    {
+      "id": "cmip2dn7x00pkc1fuwwzyhl0y",
+      "amount": 45873,
+      "date": "2025-04-01T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dn7d00pgc1fu9eefwt9i",
+      "createdAt": "2025-12-02T21:02:22.413Z",
+      "updatedAt": "2025-12-02T21:02:22.413Z"
+    },
+    {
+      "id": "cmip2dn8600pmc1fu6j5tlz9d",
+      "amount": 0,
+      "date": "2025-05-17T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dn7d00pgc1fu9eefwt9i",
+      "createdAt": "2025-12-02T21:02:22.423Z",
+      "updatedAt": "2025-12-02T21:02:22.423Z"
+    },
+    {
+      "id": "cmip2dn8z00pqc1fuyqbf7qyc",
+      "amount": 45813,
+      "date": "2025-05-01T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dn8p00poc1fufcipij8a",
+      "createdAt": "2025-12-02T21:02:22.452Z",
+      "updatedAt": "2025-12-02T21:02:22.452Z"
+    },
+    {
+      "id": "cmip2dn9900psc1fux0xog0q9",
+      "amount": 0,
+      "date": "2025-09-27T03:00:00.000Z",
+      "notes": "Imported from OCTUBRE",
+      "clientId": "cmip2dn8p00poc1fufcipij8a",
+      "createdAt": "2025-12-02T21:02:22.461Z",
+      "updatedAt": "2025-12-02T21:02:22.461Z"
+    },
+    {
+      "id": "cmip2dn9r00pvc1fuvc776nix",
+      "amount": 0,
+      "date": "2025-05-06T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dn9i00ptc1fugvilqkmu",
+      "createdAt": "2025-12-02T21:02:22.480Z",
+      "updatedAt": "2025-12-02T21:02:22.480Z"
+    },
+    {
+      "id": "cmip2dnbc00q2c1fufhvwpg73",
+      "amount": 0,
+      "date": "2025-03-25T03:00:00.000Z",
+      "notes": "Imported from ABRIL",
+      "clientId": "cmip2dnb300q0c1fuprtag4nh",
+      "createdAt": "2025-12-02T21:02:22.537Z",
+      "updatedAt": "2025-12-02T21:02:22.537Z"
+    },
+    {
+      "id": "cmip2dnbm00q4c1fu18rl4dte",
+      "amount": 0,
+      "date": "2025-04-23T03:00:00.000Z",
+      "notes": "Imported from MAYO",
+      "clientId": "cmip2dnb300q0c1fuprtag4nh",
+      "createdAt": "2025-12-02T21:02:22.546Z",
+      "updatedAt": "2025-12-02T21:02:22.546Z"
+    },
+    {
+      "id": "cmip2dnbv00q6c1fuk3i9xr1c",
+      "amount": 0,
+      "date": "2025-06-23T03:00:00.000Z",
+      "notes": "Imported from JULIO",
+      "clientId": "cmip2dnb300q0c1fuprtag4nh",
+      "createdAt": "2025-12-02T21:02:22.555Z",
+      "updatedAt": "2025-12-02T21:02:22.555Z"
+    },
+    {
+      "id": "cmip2dnc500q8c1fu3s24kbur",
+      "amount": 0,
+      "date": "2025-08-28T03:00:00.000Z",
+      "notes": "Imported from SEPTIEMBRE",
+      "clientId": "cmip2dnb300q0c1fuprtag4nh",
+      "createdAt": "2025-12-02T21:02:22.565Z",
+      "updatedAt": "2025-12-02T21:02:22.565Z"
+    },
+    {
+      "id": "cmip2dnce00qac1fukzu90q84",
+      "amount": 0,
+      "date": "2025-09-24T03:00:00.000Z",
+      "notes": "Imported from OCTUBRE",
+      "clientId": "cmip2dnb300q0c1fuprtag4nh",
+      "createdAt": "2025-12-02T21:02:22.575Z",
+      "updatedAt": "2025-12-02T21:02:22.575Z"
+    },
+    {
+      "id": "cmj744l7100037lk7orhbl4yn",
+      "amount": 456665000,
+      "date": "2025-12-15T12:11:10.233Z",
+      "notes": null,
+      "clientId": "cmip2dlwr00hic1fuaiet52w0",
+      "createdAt": "2025-12-15T12:11:10.282Z",
+      "updatedAt": "2025-12-15T12:11:10.282Z"
+    }
+  ]
+}

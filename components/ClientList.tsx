@@ -2,8 +2,9 @@
 
 import { useState } from "react"
 import { ClientWithPayments, getClientStatus } from "@/lib/status"
-import { CheckCircle, AlertCircle, Clock, User, Plus, Minus } from "lucide-react"
+import { CheckCircle, AlertCircle, Clock, User, Plus, Minus, Calendar } from "lucide-react"
 import PaymentModal from "./PaymentModal"
+import Modal from "./Modal"
 import Toast from "./Toast"
 import { useRouter } from "next/navigation"
 
@@ -14,6 +15,8 @@ interface ClientListProps {
 export default function ClientList({ clients }: ClientListProps) {
   const router = useRouter()
   const [selectedClient, setSelectedClient] = useState<ClientWithPayments | null>(null)
+  const [editingDueDateClient, setEditingDueDateClient] = useState<ClientWithPayments | null>(null)
+  const [newDueDate, setNewDueDate] = useState<string>("")
   const [isPaymentModalOpen, setIsPaymentModalOpen] = useState(false)
   const [toast, setToast] = useState<{ message: string; paymentId?: string; action: 'added' | 'removed' } | null>(null)
 
@@ -55,6 +58,35 @@ export default function ClientList({ clients }: ClientListProps) {
       console.error("Error undoing:", error)
     }
     setToast(null)
+  }
+
+  const handleSaveDueDate = async () => {
+    if (!editingDueDateClient || !newDueDate) return
+
+    try {
+      const day = new Date(newDueDate).getDate()
+      // Adjust because getDate returns 1-31 based on local time, but input value is YYYY-MM-DD.
+      // Actually new Date("2023-10-15") is UTC.
+      // Better to parse the string split to avoid timezone issues.
+      const [year, month, d] = newDueDate.split('-').map(Number)
+      
+      const res = await fetch(`/api/clients/${editingDueDateClient.id}`, {
+        method: "PUT",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ customDueDay: d }),
+      })
+
+      if (res.ok) {
+        setToast({
+          message: `Vencimiento actualizado para ${editingDueDateClient.name}`,
+          action: 'added', // Reusing 'added' for simple message
+        })
+        router.refresh()
+        setEditingDueDateClient(null)
+      }
+    } catch (error) {
+      console.error("Error updating due date:", error)
+    }
   }
 
   const getLastPayment = (client: ClientWithPayments) => {
@@ -115,6 +147,39 @@ export default function ClientList({ clients }: ClientListProps) {
                 cursor: 'pointer'
               }}
             >
+              {/* Calendar Button */}
+              <div
+                onClick={(e) => {
+                  e.stopPropagation()
+                  setEditingDueDateClient(client)
+                  // Pre-fill with existing custom day if any, else today?
+                  // Construct a valid YYYY-MM-DD string for input type="date"
+                  // If client has customDueDay, use current month + that day
+                  const today = new Date()
+                  const day = client.customDueDay || today.getDate()
+                  // Format as YYYY-MM-DD
+                  const d = new Date(today.getFullYear(), today.getMonth(), day)
+                  const isoDate = d.toISOString().split('T')[0]
+                  setNewDueDate(isoDate)
+                }}
+                style={{
+                  position: 'absolute',
+                  top: '0.75rem',
+                  right: '3rem', // Spaced from the other button
+                  padding: '0.375rem',
+                  background: 'rgba(255, 255, 255, 0.05)',
+                  border: '1px solid var(--color-border-subtle)',
+                  borderRadius: '8px',
+                  color: 'var(--color-text-secondary)',
+                  transition: 'all 0.15s',
+                  zIndex: 10
+                }}
+                key="calendar-btn"
+                title="Configurar vencimiento"
+              >
+                <Calendar style={{ width: '1rem', height: '1rem' }} />
+              </div>
+
               {/* Action Button */}
               <div
                 style={{
@@ -285,6 +350,38 @@ export default function ClientList({ clients }: ClientListProps) {
           duration={5000}
         />
       )}
+
+      {/* Due Date Modal */}
+      <Modal
+        isOpen={!!editingDueDateClient}
+        onClose={() => setEditingDueDateClient(null)}
+        title="Configurar Vencimiento"
+      >
+        <div className="space-y-4">
+          <p className="text-secondary text-sm">
+            Seleccioná una fecha. El <strong>día</strong> de esa fecha se usará como el día de vencimiento mensual para {editingDueDateClient?.name}.
+          </p>
+          
+          <div className="space-y-2">
+            <label className="block text-sm font-medium text-primary">
+              Fecha de referencia
+            </label>
+            <input
+              type="date"
+              value={newDueDate}
+              onChange={(e) => setNewDueDate(e.target.value)}
+              className="w-full p-3 rounded-lg bg-bg-primary border border-border-subtle text-primary focus:outline-none focus:border-accent"
+            />
+          </div>
+
+          <button
+            onClick={handleSaveDueDate}
+            className="w-full btn-primary py-3 justify-center"
+          >
+            Guardar Vencimiento
+          </button>
+        </div>
+      </Modal>
     </>
   )
 }
